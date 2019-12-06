@@ -27,9 +27,9 @@
 4
 Найденные пары: (1,15) (1,23) (1,31) (9,31)
 """
-import sys
-save_stdin = sys.stdin
-sys.stdin = open("in/112.in")
+# import sys
+# save_stdin = sys.stdin
+# sys.stdin = open("in/112.in")
 
 d = 4
 n = int(input())
@@ -52,4 +52,4 @@ for i in range(n-d):
   
 print(count)
 
-sys.stdin = save_stdin
+# sys.stdin = save_stdin

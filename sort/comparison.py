@@ -24,6 +24,15 @@ def merge_sort(a):
     left,right = merge_sort(a[:len(a)//2]), merge_sort(a[len(a)//2:])
     return merge(left,right)
 
+def find(arr,s):
+    if s<=arr[0]:
+        return 0
+    elif s >= arr[-1]:
+        return len(arr)
+    
+    for i in range(1,len(arr)):
+        if s>= arr[i-1] and s <= arr[i]:
+            return i
 def binary_interval_search(arr,s,b=None,e=None):
     if b==None:
         b = 0
@@ -49,6 +58,7 @@ def insertion_sort(a):
     s = [a[0]]
     for i in range(1,len(a)):
         t = binary_interval_search(s,a[i])
+        #t = find(s,a[i])
         s = s[:t]+[a[i]]+s[t:]
     return s
 
@@ -92,20 +102,22 @@ def create_array(size=10, mx=30):
     return random.sample(range(0,mx), size)
 
 n = int(input())
-print('SIZE\t\t\tMERGE\t\t\tINSERTION\t\tSELECTION\t\tQUICKSORT\t\tTIMSORT')
-print('_'*160)
+print('SIZE\t\t\tMERGE\t\t\tINSERTION\t\tSELECTION\t\tQUICKSORT\t\tTIMSORT\t\t\tSORT')
+print('_'*150)
 for i in range(1,n+1):
     a = create_array(2**i,(2**i)*10)
     t0 = time.time()
     merge_sort(a)
     t1 = time.time()
-    #insertion_sort(a)
+    insertion_sort(a)
     t2 = time.time()
-    #selection_sort(a)
+    selection_sort(a)
     t3 = time.time()
     quick_sort(a)
     t4 = time.time()
-    #timsort(a)
+    timsort(a)
     t5 = time.time()
+    a.sort()
+    t6 = time.time()
 
-    print('2^%d\t\t\t%.10f\t\t%.10f\t\t%.10f\t\t%.10f\t\t%.10f' % (i,t1-t0,t2-t1,t3-t2,t4-t3,t5-t4))
+    print('2^%d\t\t\t%.10f\t\t%.10f\t\t%.10f\t\t%.10f\t\t%.10f\t\t%.10f' % (i,t1-t0,t2-t1,t3-t2,t4-t3,t5-t4,t6-t5))

@@ -85,13 +85,11 @@ for i in range(m,n+1,s):
     print('%', end='')
     print('\tCurrent size: %d' % i, end='')
     sheet1.write(r, 0, i)
-    a = create_sorted_array(i)
+    a = create_array(i)
     
     for j in range(t):
-        f = random.randint(0,i-1)
-        f = a[f]
         t0 = time.time_ns()
-        binary_search(a,f)
+        quick_sort(a)
         t1 = time.time_ns()
         sheet1.write(r, j+1, (t1-t0)/(10**6))
     print('\tDone!\n' + '_'*50)

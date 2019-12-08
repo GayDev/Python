@@ -1,5 +1,6 @@
 import random
 import time
+import math
 
 def create_array(size):
     return [random.randint(0,size*10) for _ in range(size)]
@@ -60,6 +61,13 @@ def bubble_sort(a):
 
     return arr
 
+def is_prime(a):
+    q = True
+    for i in range(1,int(math.sqrt(a))+1):
+        if a % i == 0:
+            q = False
+    return q
+
 print('Minimum array size: ', end='')
 m = int(input())
 print('Maximum array size: ', end='')
@@ -84,12 +92,11 @@ for i in range(m,n+1,s):
     print('%.1f' % (100*(i-m)/(n-m)), end='')
     print('%', end='')
     print('\tCurrent size: %d' % i, end='')
-    sheet1.write(r, 0, i)
-    a = create_array(i)
+    sheet1.write(r, 0, 2**i)
     
     for j in range(t):
         t0 = time.time_ns()
-        quick_sort(a)
+        is_prime(2**i)
         t1 = time.time_ns()
         sheet1.write(r, j+1, (t1-t0)/(10**6))
     print('\tDone!\n' + '_'*50)

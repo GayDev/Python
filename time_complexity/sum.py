@@ -102,4 +102,4 @@ for i in range(m,n+1,s):
     print('\tDone!\n' + '_'*50)
 
 wb.save('speed_test.xls')
-print('Saved!')
+print('File has been saved!')

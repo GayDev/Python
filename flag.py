@@ -332,7 +332,7 @@ class loading:
         while 1==1:
             for i in range(0,len(self.frames)):
                 hue = i/len(self.frames)
-                os.system('cls')
+                os.system('clear')
                 for j in range(0,len(self.frames[0].strings)):
                     hue += j*.0002
                     if f%4==0:

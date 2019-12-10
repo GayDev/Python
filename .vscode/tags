@@ -1,0 +1,1587 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+0-1.py	../Sol/0-1.py	1;"	kind:file	line:1
+0-2.py	../Sol/0-2.py	1;"	kind:file	line:1
+1.py	../24/1.py	1;"	kind:file	line:1
+1.py	../25/1.py	1;"	kind:file	line:1
+1.py	../27/1.py	1;"	kind:file	line:1
+1.py	../Coding Interview/Array/1.py	1;"	kind:file	line:1
+1.py	../Exam/25/1.py	1;"	kind:file	line:1
+1.py	../Olimp/1.py	1;"	kind:file	line:1
+1.py	../Olimp2/1.py	1;"	kind:file	line:1
+1.py	../Sol/1.py	1;"	kind:file	line:1
+1.test.py	../Olimp/1.test.py	1;"	kind:file	line:1
+10.py	../Sol/10.py	1;"	kind:file	line:1
+100.py	../Sol/100.py	1;"	kind:file	line:1
+101.py	../Sol/101.py	1;"	kind:file	line:1
+102.py	../Sol/102.py	1;"	kind:file	line:1
+103.py	../Sol/103.py	1;"	kind:file	line:1
+104.py	../Sol/104.py	1;"	kind:file	line:1
+105.py	../Sol/105.py	1;"	kind:file	line:1
+106.py	../Sol/106.py	1;"	kind:file	line:1
+107.py	../Sol/107.py	1;"	kind:file	line:1
+108.py	../Sol/108.py	1;"	kind:file	line:1
+109.py	../Sol/109.py	1;"	kind:file	line:1
+11.py	../Sol/11.py	1;"	kind:file	line:1
+110.py	../Sol/110.py	1;"	kind:file	line:1
+111.py	../Sol/111.py	1;"	kind:file	line:1
+112.py	../27/112.py	1;"	kind:file	line:1
+112.py	../Sol/112.py	1;"	kind:file	line:1
+113.py	../27/113.py	1;"	kind:file	line:1
+113.py	../Sol/113.py	1;"	kind:file	line:1
+114.py	../Exam/27/114.py	1;"	kind:file	line:1
+114.py	../Sol/114.py	1;"	kind:file	line:1
+115.py	../Sol/115.py	1;"	kind:file	line:1
+116.py	../27/116.py	1;"	kind:file	line:1
+116.py	../Sol/116.py	1;"	kind:file	line:1
+12.py	../Sol/12.py	1;"	kind:file	line:1
+13.py	../Sol/13.py	1;"	kind:file	line:1
+14.py	../Sol/14.py	1;"	kind:file	line:1
+15.py	../Sol/15.py	1;"	kind:file	line:1
+15937.py	../27/15937.py	1;"	kind:file	line:1
+16.py	../Sol/16.py	1;"	kind:file	line:1
+17.py	../Sol/17.py	1;"	kind:file	line:1
+18.py	../Sol/18.py	1;"	kind:file	line:1
+19.py	../Sol/19.py	1;"	kind:file	line:1
+2.py	../25/2.py	1;"	kind:file	line:1
+2.py	../Coding Interview/Array/2.py	1;"	kind:file	line:1
+2.py	../Olimp/2.py	1;"	kind:file	line:1
+2.py	../Sol/2.py	1;"	kind:file	line:1
+20.py	../Sol/20.py	1;"	kind:file	line:1
+21.py	../Sol/21.py	1;"	kind:file	line:1
+22.py	../Sol/22.py	1;"	kind:file	line:1
+23.py	../Sol/23.py	1;"	kind:file	line:1
+24.py	../Sol/24.py	1;"	kind:file	line:1
+25.py	../Sol/25.py	1;"	kind:file	line:1
+26.py	../Sol/26.py	1;"	kind:file	line:1
+27.py	../Sol/27.py	1;"	kind:file	line:1
+28.py	../Sol/28.py	1;"	kind:file	line:1
+29.py	../Sol/29.py	1;"	kind:file	line:1
+3.py	../25/3.py	1;"	kind:file	line:1
+3.py	../Coding Interview/Array/3.py	1;"	kind:file	line:1
+3.py	../Olimp/3.py	1;"	kind:file	line:1
+3.py	../Sol/3.py	1;"	kind:file	line:1
+30.py	../Sol/30.py	1;"	kind:file	line:1
+31.py	../Sol/31.py	1;"	kind:file	line:1
+3130.py	../Exam/27/3130.py	1;"	kind:file	line:1
+32.py	../Sol/32.py	1;"	kind:file	line:1
+33.py	../Sol/33.py	1;"	kind:file	line:1
+34.py	../Sol/34.py	1;"	kind:file	line:1
+35.py	../Sol/35.py	1;"	kind:file	line:1
+36.py	../Sol/36.py	1;"	kind:file	line:1
+37.py	../Sol/37.py	1;"	kind:file	line:1
+38.py	../Sol/38.py	1;"	kind:file	line:1
+39.py	../Sol/39.py	1;"	kind:file	line:1
+4.py	../Coding Interview/Array/4.py	1;"	kind:file	line:1
+4.py	../Olimp/4.py	1;"	kind:file	line:1
+4.py	../Sol/4.py	1;"	kind:file	line:1
+40.py	../Sol/40.py	1;"	kind:file	line:1
+41.py	../Sol/41.py	1;"	kind:file	line:1
+42.py	../Sol/42.py	1;"	kind:file	line:1
+43.py	../Sol/43.py	1;"	kind:file	line:1
+44.py	../Sol/44.py	1;"	kind:file	line:1
+45.py	../Sol/45.py	1;"	kind:file	line:1
+46.py	../Sol/46.py	1;"	kind:file	line:1
+47.py	../Sol/47.py	1;"	kind:file	line:1
+48.py	../Sol/48.py	1;"	kind:file	line:1
+49.py	../Sol/49.py	1;"	kind:file	line:1
+5.py	../Coding Interview/Array/5.py	1;"	kind:file	line:1
+5.py	../Olimp/5.py	1;"	kind:file	line:1
+5.py	../Sol/5.py	1;"	kind:file	line:1
+50.py	../Sol/50.py	1;"	kind:file	line:1
+51.py	../Sol/51.py	1;"	kind:file	line:1
+52.py	../Sol/52.py	1;"	kind:file	line:1
+5258.py	../27/5258.py	1;"	kind:file	line:1
+5258.py	../Exam/27/5258.py	1;"	kind:file	line:1
+53.py	../Sol/53.py	1;"	kind:file	line:1
+54.py	../Sol/54.py	1;"	kind:file	line:1
+55.py	../Sol/55.py	1;"	kind:file	line:1
+56.py	../Sol/56.py	1;"	kind:file	line:1
+57.py	../Sol/57.py	1;"	kind:file	line:1
+58.py	../Sol/58.py	1;"	kind:file	line:1
+59.py	../Sol/59.py	1;"	kind:file	line:1
+6.py	../Coding Interview/Array/6.py	1;"	kind:file	line:1
+6.py	../Olimp/6.py	1;"	kind:file	line:1
+6.py	../Sol/6.py	1;"	kind:file	line:1
+60.py	../Sol/60.py	1;"	kind:file	line:1
+61.py	../Sol/61.py	1;"	kind:file	line:1
+62.py	../Sol/62.py	1;"	kind:file	line:1
+6202.py	../27/6202.py	1;"	kind:file	line:1
+63.py	../Sol/63.py	1;"	kind:file	line:1
+64.py	../Sol/64.py	1;"	kind:file	line:1
+65.py	../Sol/65.py	1;"	kind:file	line:1
+66.py	../Sol/66.py	1;"	kind:file	line:1
+67.py	../Sol/67.py	1;"	kind:file	line:1
+68.py	../Sol/68.py	1;"	kind:file	line:1
+69.py	../Sol/69.py	1;"	kind:file	line:1
+69a.py	../Sol/69a.py	1;"	kind:file	line:1
+7.py	../Coding Interview/Array/7.py	1;"	kind:file	line:1
+7.py	../Olimp/7.py	1;"	kind:file	line:1
+7.py	../Sol/7.py	1;"	kind:file	line:1
+70.py	../Sol/70.py	1;"	kind:file	line:1
+71.py	../Sol/71.py	1;"	kind:file	line:1
+72.py	../Sol/72.py	1;"	kind:file	line:1
+73.py	../Sol/73.py	1;"	kind:file	line:1
+7321.py	../Exam/27/7321.py	1;"	kind:file	line:1
+74-2.py	../Sol/74-2.py	1;"	kind:file	line:1
+74.py	../Sol/74.py	1;"	kind:file	line:1
+75.py	../Sol/75.py	1;"	kind:file	line:1
+76.py	../Sol/76.py	1;"	kind:file	line:1
+7684.py	../27/7684.py	1;"	kind:file	line:1
+77.py	../Sol/77.py	1;"	kind:file	line:1
+7772.py	../27/7772.py	1;"	kind:file	line:1
+78.py	../Sol/78.py	1;"	kind:file	line:1
+79.py	../Sol/79.py	1;"	kind:file	line:1
+8.py	../Sol/8.py	1;"	kind:file	line:1
+80.py	../Sol/80.py	1;"	kind:file	line:1
+81.py	../Sol/81.py	1;"	kind:file	line:1
+82.py	../Sol/82.py	1;"	kind:file	line:1
+83.py	../Sol/83.py	1;"	kind:file	line:1
+84.py	../Sol/84.py	1;"	kind:file	line:1
+85.py	../Sol/85.py	1;"	kind:file	line:1
+86.py	../Sol/86.py	1;"	kind:file	line:1
+87.py	../Sol/87.py	1;"	kind:file	line:1
+88.py	../Sol/88.py	1;"	kind:file	line:1
+89.py	../Sol/89.py	1;"	kind:file	line:1
+9.py	../Sol/9.py	1;"	kind:file	line:1
+90.py	../Sol/90.py	1;"	kind:file	line:1
+91.py	../Sol/91.py	1;"	kind:file	line:1
+92.py	../Sol/92.py	1;"	kind:file	line:1
+93.py	../Sol/93.py	1;"	kind:file	line:1
+94.py	../Sol/94.py	1;"	kind:file	line:1
+95.py	../Sol/95.py	1;"	kind:file	line:1
+96.py	../Sol/96.py	1;"	kind:file	line:1
+97.py	../Sol/97.py	1;"	kind:file	line:1
+98.py	../Sol/98.py	1;"	kind:file	line:1
+99.py	../Sol/99.py	1;"	kind:file	line:1
+A	../Exam/27/5258.py	/^A = 1000$/;"	kind:variable	line:31
+A	../Sol/86.py	/^A = [0]*N$/;"	kind:variable	line:32
+A	../Sol/demo-2014a.py	/^A = []$/;"	kind:variable	line:53
+A.py	../Olimp2/A.py	1;"	kind:file	line:1
+Buf	../Sol/54.py	/^Buf = [0]*K$/;"	kind:variable	line:45
+Buf	../Sol/55.py	/^Buf = [0]*K$/;"	kind:variable	line:44
+Buf	../Sol/56.py	/^Buf = [0]*K$/;"	kind:variable	line:53
+Buf	../Sol/58.py	/^Buf = [0]*K$/;"	kind:variable	line:45
+Buf	../Sol/59.py	/^Buf = [0]*K$/;"	kind:variable	line:42
+Buf	../Sol/60.py	/^Buf = [0]*K$/;"	kind:variable	line:52
+Buf	../Sol/63.py	/^Buf = [0]*K$/;"	kind:variable	line:52
+C	../Sol/37.py	/^C = max(max6*maX, max2*max3)$/;"	kind:variable	line:67
+C0	../Sol/37.py	/^C0 = int(input())$/;"	kind:variable	line:65
+D	../Sol/34.py	/^D = b*b - 4*a*c$/;"	kind:variable	line:44
+D	../Sol/81.py	/^D = 5$/;"	kind:variable	line:37
+D	../Sol/82.py	/^D = 5$/;"	kind:variable	line:38
+D.py	../Olimp2/D.py	1;"	kind:file	line:1
+Digits	../Sol/67.py	/^def Digits(x):$/;"	kind:function	line:39
+Digits	../Sol/68.py	/^def Digits(x):$/;"	kind:function	line:35
+G copy.py	../Olimp2/G copy.py	1;"	kind:file	line:1
+G.py	../Olimp2/G.py	1;"	kind:file	line:1
+GCD	../Olimp/5.py	/^def GCD(a,b):$/;"	kind:function	line:1
+GCD	../Olimp/test.py	/^def GCD(a,b):$/;"	kind:function	line:1
+Image	../maze.py	/^from PIL import Image$/;"	kind:namespace	line:1
+Info	../Sol/48.py	/^class Info:$/;"	kind:class	line:67
+K	../Exam/27/5258.py	/^K = q.index(max(q))+1$/;"	kind:variable	line:27
+K	../Sol/17.py	/^K = min([len(w) for w in words])$/;"	kind:variable	line:38
+K	../Sol/45.py	/^K = int(input())$/;"	kind:variable	line:49
+K	../Sol/54.py	/^K = 7$/;"	kind:variable	line:44
+K	../Sol/55.py	/^K = 5$/;"	kind:variable	line:43
+K	../Sol/56.py	/^K = 6$/;"	kind:variable	line:52
+K	../Sol/58.py	/^K = 8$/;"	kind:variable	line:44
+K	../Sol/59.py	/^K = 4$/;"	kind:variable	line:41
+K	../Sol/60.py	/^K = 6$/;"	kind:variable	line:51
+K	../Sol/63.py	/^K = 6$/;"	kind:variable	line:51
+L	../Sol/106.py	/^    L = L[::-1] # переворот последней костяшки построенной ранее цепочки$/;"	kind:variable	line:50
+L	../Sol/106.py	/^  L = R $/;"	kind:variable	line:60
+L	../Sol/106.py	/^L = list(map(int, input().split()))$/;"	kind:variable	line:41
+L	../Sol/108.py	/^L = [0]*3$/;"	kind:variable	line:41
+L	../Sol/109.py	/^L = [-100000]*3$/;"	kind:variable	line:45
+L	../Sol/17.py	/^L = len(string.ascii_uppercase)$/;"	kind:variable	line:39
+M	../Exam/27/5258.py	/^M = 0$/;"	kind:variable	line:29
+M	../Sol/15.py	/^M = int(input())$/;"	kind:variable	line:39
+M	../Sol/64.py	/^M = max( m0_1*m0_2, m0_1*m2_1, m0_1*m13_1, $/;"	kind:variable	line:61
+M	../Sol/67.py	/^M = max(count)$/;"	kind:variable	line:51
+M	../Sol/68.py	/^M = min( [x for x in range(10) if count[x] > 0] )$/;"	kind:variable	line:46
+M	../Sol/69.py	/^M = max ( count )$/;"	kind:variable	line:52
+M	../Sol/demo-2014.py	/^        M = max(M, x)        $/;"	kind:variable	line:62
+M	../Sol/demo-2014.py	/^        M = max(M21, M)$/;"	kind:variable	line:59
+M	../Sol/demo-2014a.py	/^M = max(A)$/;"	kind:variable	line:64
+M21	../Sol/demo-2014.py	/^        M21 = x$/;"	kind:variable	line:60
+M21	../Sol/demo-2014a.py	/^    M21 = max ( A21 )$/;"	kind:variable	line:62
+MAXBALL	../Sol/11.py	/^MAXBALL = 70$/;"	kind:variable	line:44
+Max	../Sol/50.py	/^        Max = x$/;"	kind:variable	line:54
+N	../25/1.py	/^N = 100$/;"	kind:variable	line:3
+N	../Sol/0-1.py	/^N = int(input())$/;"	kind:variable	line:29
+N	../Sol/0-2.py	/^N = int(input())$/;"	kind:variable	line:31
+N	../Sol/10.py	/^N = int(input())$/;"	kind:variable	line:36
+N	../Sol/102.py	/^N = int(input())$/;"	kind:variable	line:45
+N	../Sol/11.py	/^N = int(input())$/;"	kind:variable	line:45
+N	../Sol/12.py	/^N = int(input())$/;"	kind:variable	line:37
+N	../Sol/13.py	/^N = int(input())$/;"	kind:variable	line:38
+N	../Sol/15.py	/^N = int(input())$/;"	kind:variable	line:38
+N	../Sol/16.py	/^N = int(input())$/;"	kind:variable	line:44
+N	../Sol/18.py	/^N = int(input())$/;"	kind:variable	line:41
+N	../Sol/19.py	/^N = int(input())$/;"	kind:variable	line:40
+N	../Sol/20.py	/^N = int(input())$/;"	kind:variable	line:47
+N	../Sol/21.py	/^N = int(input())$/;"	kind:variable	line:39
+N	../Sol/23.py	/^N = int(input())$/;"	kind:variable	line:47
+N	../Sol/30.py	/^N = int(input())$/;"	kind:variable	line:45
+N	../Sol/31.py	/^N = int(input())$/;"	kind:variable	line:34
+N	../Sol/33.py	/^N = int(input())$/;"	kind:variable	line:47
+N	../Sol/35.py	/^N = int(input())$/;"	kind:variable	line:42
+N	../Sol/36.py	/^N = int(input())$/;"	kind:variable	line:39
+N	../Sol/4.py	/^N = int(input())$/;"	kind:variable	line:41
+N	../Sol/40.py	/^N = int(input())    $/;"	kind:variable	line:50
+N	../Sol/42.py	/^N = int(input())$/;"	kind:variable	line:42
+N	../Sol/43.py	/^N = int(input())$/;"	kind:variable	line:41
+N	../Sol/44.py	/^N = int(input())$/;"	kind:variable	line:47
+N	../Sol/45.py	/^N = int(input())$/;"	kind:variable	line:48
+N	../Sol/46.py	/^N = int(input())$/;"	kind:variable	line:38
+N	../Sol/47.py	/^N = int(input())$/;"	kind:variable	line:45
+N	../Sol/48.py	/^N = int(input())$/;"	kind:variable	line:93
+N	../Sol/49.py	/^N = int(input())$/;"	kind:variable	line:51
+N	../Sol/5.py	/^N = int(input())$/;"	kind:variable	line:35
+N	../Sol/50.py	/^N = int(input())$/;"	kind:variable	line:48
+N	../Sol/52.py	/^N = int(input())$/;"	kind:variable	line:57
+N	../Sol/53.py	/^N = int(input())$/;"	kind:variable	line:72
+N	../Sol/54.py	/^N = int(input())$/;"	kind:variable	line:43
+N	../Sol/55.py	/^N = int(input())$/;"	kind:variable	line:42
+N	../Sol/56.py	/^N = int(input())$/;"	kind:variable	line:51
+N	../Sol/57.py	/^N = int(input())$/;"	kind:variable	line:51
+N	../Sol/58.py	/^N = int(input())$/;"	kind:variable	line:43
+N	../Sol/59.py	/^N = int(input())$/;"	kind:variable	line:40
+N	../Sol/6.py	/^N = int(input())$/;"	kind:variable	line:38
+N	../Sol/60.py	/^N = int(input())$/;"	kind:variable	line:50
+N	../Sol/61.py	/^N = int(input())$/;"	kind:variable	line:47
+N	../Sol/62.py	/^N = int(input())$/;"	kind:variable	line:40
+N	../Sol/63.py	/^N = int(input())$/;"	kind:variable	line:50
+N	../Sol/64.py	/^N = int(input())$/;"	kind:variable	line:38
+N	../Sol/65.py	/^N = int(input())$/;"	kind:variable	line:41
+N	../Sol/66.py	/^N = int(input())$/;"	kind:variable	line:38
+N	../Sol/67.py	/^N = int(input())$/;"	kind:variable	line:46
+N	../Sol/68.py	/^N = int(input())$/;"	kind:variable	line:41
+N	../Sol/69.py	/^N = int(input())$/;"	kind:variable	line:47
+N	../Sol/7.py	/^N = int(input())$/;"	kind:variable	line:39
+N	../Sol/70.py	/^N = int(input())$/;"	kind:variable	line:33
+N	../Sol/71.py	/^N = int(input())$/;"	kind:variable	line:46
+N	../Sol/72.py	/^N = int(input())$/;"	kind:variable	line:45
+N	../Sol/75.py	/^N = int(input())$/;"	kind:variable	line:35
+N	../Sol/76.py	/^N = int(input())$/;"	kind:variable	line:40
+N	../Sol/77.py	/^N = int(input())$/;"	kind:variable	line:35
+N	../Sol/78.py	/^N = int(input())$/;"	kind:variable	line:41
+N	../Sol/79.py	/^N = int(input())$/;"	kind:variable	line:38
+N	../Sol/8.py	/^N = int(input())$/;"	kind:variable	line:31
+N	../Sol/83.py	/^N = int(input())$/;"	kind:variable	line:35
+N	../Sol/84.py	/^N = int(input())$/;"	kind:variable	line:38
+N	../Sol/85.py	/^N = int(input())$/;"	kind:variable	line:35
+N	../Sol/86.py	/^N = int(input())$/;"	kind:variable	line:31
+N	../Sol/9.py	/^N = int(input())$/;"	kind:variable	line:47
+N	../Sol/demo-2014.py	/^N = int(input())$/;"	kind:variable	line:51
+N	../Sol/demo-2014a.py	/^N = int(input())$/;"	kind:variable	line:51
+Queue	../Sol/78.py	/^from queue import Queue$/;"	kind:namespace	line:36
+R	../Sol/106.py	/^      R = R[::-1] $/;"	kind:variable	line:54
+R	../Sol/106.py	/^    R = R[::-1] $/;"	kind:variable	line:47
+R	../Sol/106.py	/^  R = list(map(int, input().split()))$/;"	kind:variable	line:43
+R	../Sol/107.py	/^    R = 0$/;"	kind:variable	line:49
+R	../Sol/108.py	/^R = [0]*3$/;"	kind:variable	line:42
+R	../Sol/109.py	/^R = [-100000]*3$/;"	kind:variable	line:46
+R	../Sol/51.py	/^R = int(input())$/;"	kind:variable	line:52
+R	../Sol/57.py	/^    R = chet + nechet$/;"	kind:variable	line:57
+R	../Sol/61.py	/^R = 1$/;"	kind:variable	line:58
+R	../Sol/64.py	/^R = int(input())$/;"	kind:variable	line:60
+R	../Sol/demo-2014.py	/^R = max(M3*M7, M21*M)$/;"	kind:variable	line:64
+R	../Sol/demo-2014a.py	/^R = max(M3*M7, M21*M)$/;"	kind:variable	line:66
+R0	../Sol/57.py	/^R0 = int(input())$/;"	kind:variable	line:58
+R0	../Sol/61.py	/^R0 = int(input())$/;"	kind:variable	line:61
+R0	../Sol/demo-2014.py	/^R0 = int(input())$/;"	kind:variable	line:63
+R0	../Sol/demo-2014a.py	/^R0 = int(input())$/;"	kind:variable	line:65
+R1	../Sol/51.py	/^R1 = max7*mx$/;"	kind:variable	line:53
+RgbFg	../flag.py	/^from sty import fg,bg,RgbFg$/;"	kind:namespace	line:6
+RgbFg	../matrix.py	/^from sty import fg,RgbFg$/;"	kind:namespace	line:6
+S	../Sol/40.py	/^S = 0$/;"	kind:variable	line:51
+S1	../Sol/47.py	/^S1 = (xMax1 - xMin1) * yMax1 \/ 2.$/;"	kind:variable	line:64
+S2	../Sol/47.py	/^S2 = (xMax2 - xMin2) * yMax2 \/ 2.$/;"	kind:variable	line:65
+SumDigits	../Sol/69.py	/^def SumDigits(x):$/;"	kind:function	line:39
+TODO_13423.py	../Exam/TODO_13423.py	1;"	kind:file	line:1
+Workbook	../excel/table.py	/^from xlwt import Workbook $/;"	kind:namespace	line:2
+Workbook	../time_complexity/sum.py	/^from xlwt import Workbook$/;"	kind:namespace	line:81
+__init__	../27/5258.py	/^    def __init__(self,x,y):$/;"	kind:member	line:2
+__init__	../27/7772.py	/^    def __init__(self,v,n):$/;"	kind:member	line:2
+__init__	../Coding Interview/Array/4.py	/^    def __init__(self,index1,index2):$/;"	kind:member	line:12
+__init__	../Exam/27/5258.py	/^    def __init__(self,x,y):$/;"	kind:member	line:2
+__init__	../Olimp/binary_search_tree.py	/^    def __init__():$/;"	kind:member	line:8
+__init__	../Olimp/binary_search_tree.py	/^    def __init__(value):$/;"	kind:member	line:2
+__init__	../Sol/48.py	/^  def __init__(self, name, res):$/;"	kind:member	line:68
+__init__	../binary_search_tree.py	/^    def __init__(self):$/;"	kind:member	line:8
+__init__	../binary_search_tree.py	/^    def __init__(self,value):$/;"	kind:member	line:2
+__init__	../book/movie_schedule.py	/^    def __init__(self,start,end):$/;"	kind:member	line:2
+__init__	../flag.py	/^    def __init__(self):$/;"	kind:member	line:34
+__init__	../flag.py	/^    def __init__(self,strings):$/;"	kind:member	line:18
+__init__	../linked_list.py	/^    def __init__(self):$/;"	kind:member	line:7
+__init__	../linked_list.py	/^    def __init__(self,value):$/;"	kind:member	line:2
+__init__	../matrix.py	/^    def __init__(self,length):$/;"	kind:member	line:28
+__init__	../matrix.py	/^    def __init__(self,length,symbols_list):$/;"	kind:member	line:17
+__init__	../matrix.py	/^    def __init__(self,r,g,b):$/;"	kind:member	line:9
+__init__	../matrix.py	/^    def __init__(self,width,height):$/;"	kind:member	line:59
+__init__	../maze.py	/^    def __init__(self):$/;"	kind:member	line:15
+__init__	../maze.py	/^    def __init__(self, is_border, is_door):$/;"	kind:member	line:5
+__init__	../maze.py	/^    def __init__(self,file):$/;"	kind:member	line:42
+_delete	../linked_list.py	/^    def _delete(self,cur_node,value):$/;"	kind:member	line:34
+_insert	../Olimp/binary_search_tree.py	/^    def _insert(self,cur_node,value):$/;"	kind:member	line:17
+_insert	../binary_search_tree.py	/^    def _insert(self,cur_node,value):$/;"	kind:member	line:17
+_insert	../linked_list.py	/^    def _insert(self,cur_node,value):$/;"	kind:member	line:22
+_print	../Olimp/binary_search_tree.py	/^    def _print(self,cur_node):$/;"	kind:member	line:29
+_print	../linked_list.py	/^    def _print(self,cur_node):$/;"	kind:member	line:45
+_quicksort	../Coding Interview/Array/7.py	/^def _quicksort(a,begin,end):$/;"	kind:function	line:14
+a	../25/1.py	/^a = []$/;"	kind:variable	line:4
+a	../25/2.py	/^a = []$/;"	kind:variable	line:3
+a	../25/3.py	/^a = []$/;"	kind:variable	line:5
+a	../27/1.py	/^        a = mx[i]$/;"	kind:variable	line:19
+a	../27/1.py	/^a = mx[0]$/;"	kind:variable	line:5
+a	../27/112.py	/^a = []$/;"	kind:variable	line:2
+a	../27/113.py	/^    a = int(input())$/;"	kind:variable	line:7
+a	../27/116.py	/^a = []$/;"	kind:variable	line:4
+a	../27/5258.py	/^a = []$/;"	kind:variable	line:16
+a	../27/7772.py	/^a = []$/;"	kind:variable	line:6
+a	../27/7772.py	/^a = a.sort()$/;"	kind:variable	line:11
+a	../Coding Interview/Array/1.py	/^a = []$/;"	kind:variable	line:4
+a	../Coding Interview/Array/2.py	/^a = []$/;"	kind:variable	line:5
+a	../Coding Interview/Array/3.py	/^a = []$/;"	kind:variable	line:5
+a	../Coding Interview/Array/4.py	/^a = []$/;"	kind:variable	line:5
+a	../Coding Interview/Array/5.py	/^a = []$/;"	kind:variable	line:5
+a	../Coding Interview/Array/6.py	/^a = []$/;"	kind:variable	line:5
+a	../Coding Interview/Array/7.py	/^a = []$/;"	kind:variable	line:5
+a	../Exam/25/1.py	/^a = []$/;"	kind:variable	line:1
+a	../Exam/27/5258.py	/^a = []$/;"	kind:variable	line:15
+a	../Exam/27/7321.py	/^a = []$/;"	kind:variable	line:3
+a	../Exam/TODO_13423.py	/^a = {}$/;"	kind:variable	line:8
+a	../Olimp/1.py	/^a = int(input())$/;"	kind:variable	line:1
+a	../Olimp/3.py	/^a = []$/;"	kind:variable	line:7
+a	../Olimp/5.py	/^a = []$/;"	kind:variable	line:8
+a	../Olimp/6.py	/^a = []$/;"	kind:variable	line:2
+a	../Olimp/7.py	/^a = []$/;"	kind:variable	line:29
+a	../Olimp/test.py	/^a = int(input())$/;"	kind:variable	line:6
+a	../Olimp2/D.py	/^a = int(input())$/;"	kind:variable	line:8
+a	../Olimp2/G copy.py	/^a = []$/;"	kind:variable	line:4
+a	../Olimp2/G.py	/^a = []$/;"	kind:variable	line:3
+a	../Sol/101.py	/^  a = int( input() )$/;"	kind:variable	line:48
+a	../Sol/103.py	/^a = 6*[0]$/;"	kind:variable	line:45
+a	../Sol/104.py	/^a = 6*[0]$/;"	kind:variable	line:45
+a	../Sol/105.py	/^a = 6*[0]$/;"	kind:variable	line:38
+a	../Sol/111.py	/^  a = int(input())  # читаем следующий элемент$/;"	kind:variable	line:51
+a	../Sol/114.py	/^a = [0]*144$/;"	kind:variable	line:55
+a	../Sol/64.py	/^  a = int(input())$/;"	kind:variable	line:45
+a	../Sol/70.py	/^a = [0]*10$/;"	kind:variable	line:32
+a	../Sol/73.py	/^      a= [int(x) for x in input().split()]$/;"	kind:variable	line:39
+a	../Sol/74.py	/^        a = x[i]+inp[k]+inp[(k+1)%3]   $/;"	kind:variable	line:50
+a	../Sol/74.py	/^  a = inp[i] + inp[(i+1)%3]  #inp0+inp1; inp1+inp2; inp2+inp0$/;"	kind:variable	line:38
+a	../Sol/78.py	/^a = Queue()$/;"	kind:variable	line:38
+a	../Sol/91.py	/^  a = int(input())$/;"	kind:variable	line:42
+a	../Sol/93.py	/^a = [0]*(d+1)$/;"	kind:variable	line:31
+a	../Sol/95.py	/^a = [0]*6$/;"	kind:variable	line:41
+a	../Sol/98.py	/^  a = int( input() )$/;"	kind:variable	line:40
+a	../Sol/99.py	/^  a = int( input() )$/;"	kind:variable	line:42
+a	../book/movie_schedule.py	/^    a = b$/;"	kind:variable	line:39
+a	../book/movie_schedule.py	/^a = []$/;"	kind:variable	line:13
+a	../linked_list.py	/^a = linked_list()$/;"	kind:variable	line:53
+a	../matrix.py	/^a = rain(55,60)$/;"	kind:variable	line:97
+a	../maze.py	/^a = maze('maze.png')/;"	kind:variable	line:77
+a	../search/binary_interval_sesarch.py	/^a = create_sorted_array()$/;"	kind:variable	line:29
+a	../sort/insertion_sort.py	/^    a = create_array(10**i,(10**i)*100)$/;"	kind:variable	line:47
+a	../sort/insertion_sort.py	/^    a = insertion_sort(a)$/;"	kind:variable	line:49
+a	../sort/merge_sort.py	/^a = create_array(20)$/;"	kind:variable	line:31
+a	../sort/selection_sort.py	/^a = []$/;"	kind:variable	line:15
+a	../sort/selection_sort.py	/^a = random.sample(range(0,100), 50)$/;"	kind:variable	line:16
+a	../sort/timsort.py	/^    a = create_array(10**i, (10**i) * 10)$/;"	kind:variable	line:68
+a1	../Coding Interview/Array/6.py	/^a1 = []$/;"	kind:variable	line:12
+aMax	../Sol/91.py	/^  aMax = max(aMax, a)$/;"	kind:variable	line:44
+abbr	../Sol/44.py	/^abbr = input()$/;"	kind:variable	line:46
+accepted	../Sol/12.py	/^accepted = []$/;"	kind:variable	line:38
+add_drop	../matrix.py	/^    def add_drop(self):$/;"	kind:member	line:40
+add_frame	../flag.py	/^    def add_frame(self,frame):$/;"	kind:member	line:37
+add_front	../maze.py	/^    def add_front(self,x,y):$/;"	kind:member	line:18
+allStip	../Sol/31.py	/^allStip = [ [], [], [], [], [] ]$/;"	kind:variable	line:35
+all_	../Sol/102.py	/^all_ = 7 * (N - 8) + (8 * (8 - 1)) \/\/ 2$/;"	kind:variable	line:75
+ans	../27/116.py	/^ans = []$/;"	kind:variable	line:6
+ans	../Exam/27/114.py	/^ans = a$/;"	kind:variable	line:15
+ans	../Olimp/2.py	/^ans=0$/;"	kind:variable	line:4
+ans	../Olimp/6.py	/^        ans = str(n)[0]$/;"	kind:variable	line:19
+ans	../Olimp/6.py	/^        ans = str(n-1)[-(index - a[i])]$/;"	kind:variable	line:21
+ans	../Olimp2/G copy.py	/^ans = 0$/;"	kind:variable	line:9
+ans	../Olimp2/G.py	/^ans = 0$/;"	kind:variable	line:10
+ans	../Sol/96.py	/^ans = 0$/;"	kind:variable	line:43
+ans	../Sol/97.py	/^ans = (s[0][0]*(s[0][0]-1) \/\/ 2 $/;"	kind:variable	line:48
+arrD	../Sol/67.py	/^arrD = [x for x in range(9,-1,-1) $/;"	kind:variable	line:52
+average	../Sol/1.py	/^def average ( x ):$/;"	kind:function	line:30
+avgRegion	../Sol/21.py	/^avgRegion = round( sum(total) \/ len(total) )$/;"	kind:variable	line:51
+avgYear	../Sol/1.py	/^avgYear = average(m_t)$/;"	kind:variable	line:43
+b	../27/1.py	/^        b = mn[i]$/;"	kind:variable	line:20
+b	../27/1.py	/^b = mn[0]$/;"	kind:variable	line:6
+b	../27/116.py	/^        b = ans[i][1]$/;"	kind:variable	line:28
+b	../Coding Interview/Array/2.py	/^b = {}$/;"	kind:variable	line:19
+b	../Coding Interview/Array/5.py	/^b = {}$/;"	kind:variable	line:12
+b	../Coding Interview/Array/6.py	/^b = {}$/;"	kind:variable	line:11
+b	../Exam/27/7321.py	/^b = []$/;"	kind:variable	line:4
+b	../Olimp/1.test.py	/^b = []$/;"	kind:variable	line:14
+b	../Olimp/test.py	/^b = int(input())$/;"	kind:variable	line:7
+b	../Olimp2/1.py	/^b = y[0]-k*x[0]$/;"	kind:variable	line:9
+b	../Olimp2/A.py	/^b = y[0]-k*x[0]$/;"	kind:variable	line:12
+b	../Olimp2/D.py	/^b = int(input())$/;"	kind:variable	line:9
+b	../Sol/62.py	/^    b = b[1:]$/;"	kind:variable	line:47
+b	../Sol/62.py	/^    b = b[2:]$/;"	kind:variable	line:53
+b	../Sol/62.py	/^b = bin(N)[2:][::-1]$/;"	kind:variable	line:41
+b	../book/movie_schedule.py	/^    b = []$/;"	kind:variable	line:40
+b	../book/movie_schedule.py	/^b = []$/;"	kind:variable	line:14
+ball	../Sol/12.py	/^    ball = [int(x) for x in [b1, b2, b3]]$/;"	kind:variable	line:41
+ball	../Sol/21.py	/^    ball = int(ball)$/;"	kind:variable	line:44
+ball	../Sol/6.py	/^    ball = [int(x) for x in [b1, b2, b3, b4]]$/;"	kind:variable	line:42
+ball	../Sol/7.py	/^    ball = [int(x) for x in [b1, b2]]$/;"	kind:variable	line:43
+balls	../Sol/15.py	/^    balls = [int(x) for x in data[2:]]$/;"	kind:variable	line:43
+balls	../Sol/21.py	/^    balls = res[x]$/;"	kind:variable	line:54
+best	../Sol/11.py	/^        best = [x for x in total if x > total[n25]]$/;"	kind:variable	line:62
+best	../Sol/11.py	/^    best = total[0:n25]$/;"	kind:variable	line:64
+best	../Sol/21.py	/^best = [x for x in res.items() if x[1] > avgRegion]$/;"	kind:variable	line:57
+best	../Sol/9.py	/^    best = []$/;"	kind:variable	line:55
+bg	../flag.py	/^from sty import fg,bg,RgbFg$/;"	kind:namespace	line:6
+binary_interval_search	../search/binary_interval_sesarch.py	/^def binary_interval_search(arr,s,b=None,e=None):$/;"	kind:function	line:3
+binary_interval_search	../sort/comparison.py	/^def binary_interval_search(arr,s,b=None,e=None):$/;"	kind:function	line:36
+binary_interval_search	../sort/insertion_sort.py	/^def binary_interval_search(arr,s,b=None,e=None):$/;"	kind:function	line:14
+binary_interval_search	../sort/timsort.py	/^def binary_interval_search(arr,s,b=None,e=None):$/;"	kind:function	line:26
+binary_interval_sesarch.py	../search/binary_interval_sesarch.py	1;"	kind:file	line:1
+binary_search	../Olimp/1.test.py	/^def binary_search(a,s,e,f):$/;"	kind:function	line:1
+binary_search	../time_complexity/sum.py	/^def binary_search(a,s,b=None,e=None):$/;"	kind:function	line:24
+binary_search_tree	../Olimp/binary_search_tree.py	/^class binary_search_tree:$/;"	kind:class	line:7
+binary_search_tree	../binary_search_tree.py	/^class binary_search_tree:$/;"	kind:class	line:7
+binary_search_tree.py	../Olimp/binary_search_tree.py	1;"	kind:file	line:1
+binary_search_tree.py	../binary_search_tree.py	1;"	kind:file	line:1
+bubble_sort	../time_complexity/sum.py	/^def bubble_sort(a):$/;"	kind:function	line:54
+buf	../27/112.py	/^buf = []$/;"	kind:variable	line:3
+buf	../Sol/102.py	/^buf = [0] * 8$/;"	kind:variable	line:46
+buf	../Sol/112.py	/^buf = []$/;"	kind:variable	line:38
+buf	../Sol/92.py	/^buf = []  # место для хранения значений$/;"	kind:variable	line:51
+c	../27/116.py	/^        c = ans[i][2]$/;"	kind:variable	line:29
+c	../Sol/71.py	/^    c = x % 16$/;"	kind:variable	line:50
+c	../Sol/78.py	/^c = [0]*4$/;"	kind:variable	line:37
+c_n	../27/6202.py	/^    c_n = 1$/;"	kind:variable	line:16
+c_n	../27/6202.py	/^    c_n = m1*m2$/;"	kind:variable	line:18
+calcMaxS	../Sol/109.py	/^def calcMaxS():$/;"	kind:function	line:38
+cell	../Sol/45.py	/^    cell = 0$/;"	kind:variable	line:54
+cells	../Sol/30.py	/^cells = {}$/;"	kind:variable	line:47
+check	../Sol/71.py	/^check = 0;$/;"	kind:variable	line:55
+cls	../Sol/11.py	/^    cls = int(cls); ball = int(ball)$/;"	kind:variable	line:49
+cnt	../Sol/102.py	/^cnt = (rem_div[0] * (rem_div[0] - 1)) \/\/ 2$/;"	kind:variable	line:53
+cnt	../Sol/2.py	/^cnt = sorted(cnt.items(), key = lambda x: x[1], reverse = True)$/;"	kind:variable	line:34
+cnt	../Sol/2.py	/^cnt = {}$/;"	kind:variable	line:30
+cnt	../Sol/25.py	/^cnt = sorted(cnt.items(), key = lambda x: 10*x[1]+int(x[0]) )        $/;"	kind:variable	line:30
+cnt	../Sol/25.py	/^cnt = {}$/;"	kind:variable	line:27
+cnt	../Sol/26.py	/^cnt = {}$/;"	kind:variable	line:30
+cnt	../Sol/27.py	/^cnt = {}$/;"	kind:variable	line:32
+cnt	../Sol/28.py	/^cnt = {}$/;"	kind:variable	line:36
+cnt	../Sol/29.py	/^cnt = {}$/;"	kind:variable	line:27
+cnt	../Sol/3.py	/^cnt = {}$/;"	kind:variable	line:32
+cnt	../Sol/32.py	/^cnt = [0] * (N-1)$/;"	kind:variable	line:46
+cnt	../Sol/35.py	/^cnt = sorted(cnt.items(), key = lambda x: x[1])$/;"	kind:variable	line:48
+cnt	../Sol/35.py	/^cnt = {}$/;"	kind:variable	line:43
+cnt	../Sol/36.py	/^cnt = sorted(cnt.items(), key = lambda x: x[1], reverse = True)$/;"	kind:variable	line:45
+cnt	../Sol/36.py	/^cnt = {}$/;"	kind:variable	line:40
+cnt	../Sol/41.py	/^cnt = sorted(cnt.items(), $/;"	kind:variable	line:57
+cnt	../Sol/41.py	/^cnt = {}$/;"	kind:variable	line:49
+cnt	../Sol/44.py	/^cnt = sorted(cnt.items(), key = lambda x: x[1], reverse = True)$/;"	kind:variable	line:54
+cnt	../Sol/44.py	/^cnt = {}$/;"	kind:variable	line:48
+cntMax	../Sol/33.py	/^cntMax = {}$/;"	kind:variable	line:48
+codecs	../Sol/0-1.py	/^import sys, codecs$/;"	kind:namespace	line:25
+codecs	../Sol/0-2.py	/^import sys, codecs$/;"	kind:namespace	line:27
+codecs	../Sol/10.py	/^import sys, codecs$/;"	kind:namespace	line:32
+codecs	../Sol/11.py	/^import sys, codecs$/;"	kind:namespace	line:40
+codecs	../Sol/12.py	/^import sys, codecs$/;"	kind:namespace	line:33
+codecs	../Sol/13.py	/^import sys, codecs$/;"	kind:namespace	line:34
+codecs	../Sol/15.py	/^import sys, codecs$/;"	kind:namespace	line:34
+codecs	../Sol/16.py	/^import sys, codecs$/;"	kind:namespace	line:35
+codecs	../Sol/19.py	/^import sys, codecs$/;"	kind:namespace	line:36
+codecs	../Sol/20.py	/^import sys, codecs$/;"	kind:namespace	line:43
+codecs	../Sol/21.py	/^import sys, codecs$/;"	kind:namespace	line:35
+codecs	../Sol/23.py	/^import sys, codecs$/;"	kind:namespace	line:43
+codecs	../Sol/31.py	/^import sys, codecs$/;"	kind:namespace	line:30
+codecs	../Sol/32.py	/^import sys, codecs$/;"	kind:namespace	line:40
+codecs	../Sol/33.py	/^import sys, codecs$/;"	kind:namespace	line:43
+codecs	../Sol/36.py	/^import sys, codecs$/;"	kind:namespace	line:35
+codecs	../Sol/4.py	/^import sys, codecs$/;"	kind:namespace	line:37
+codecs	../Sol/40.py	/^import sys, codecs$/;"	kind:namespace	line:42
+codecs	../Sol/45.py	/^import sys, codecs$/;"	kind:namespace	line:44
+codecs	../Sol/5.py	/^import sys, codecs$/;"	kind:namespace	line:31
+codecs	../Sol/6.py	/^import sys, codecs$/;"	kind:namespace	line:34
+codecs	../Sol/7.py	/^import sys, codecs$/;"	kind:namespace	line:35
+codecs	../Sol/8.py	/^import sys, codecs$/;"	kind:namespace	line:27
+codecs	../Sol/9.py	/^import sys, codecs$/;"	kind:namespace	line:43
+coef	../Sol/34.py	/^coef = [0, 0, 0]$/;"	kind:variable	line:32
+color	../matrix.py	/^class color:$/;"	kind:class	line:8
+colorsys	../flag.py	/^import colorsys$/;"	kind:namespace	line:3
+column	../matrix.py	/^class column:$/;"	kind:class	line:27
+comparison.py	../sort/comparison.py	1;"	kind:file	line:1
+copy	../Sol/48.py	/^import sys, copy$/;"	kind:namespace	line:63
+count	../27/112.py	/^count = 0$/;"	kind:variable	line:9
+count	../Sol/105.py	/^count = 5*[0]$/;"	kind:variable	line:39
+count	../Sol/112.py	/^count = 0$/;"	kind:variable	line:42
+count	../Sol/37.py	/^count = 0$/;"	kind:variable	line:51
+count	../Sol/38.py	/^count = 0$/;"	kind:variable	line:31
+count	../Sol/51.py	/^count = 0$/;"	kind:variable	line:44
+count	../Sol/52.py	/^count = {}$/;"	kind:variable	line:58
+count	../Sol/67.py	/^count = [0]*10$/;"	kind:variable	line:38
+count	../Sol/68.py	/^count = [0]*10$/;"	kind:variable	line:34
+count	../Sol/69.py	/^count = [0]*28$/;"	kind:variable	line:38
+count	../Sol/69a.py	/^count = [0]*28$/;"	kind:variable	line:36
+count	../Sol/70.py	/^count = 0$/;"	kind:variable	line:34
+count	../Sol/71.py	/^count = [0]*16$/;"	kind:variable	line:45
+count	../Sol/72.py	/^count = [0]*1001$/;"	kind:variable	line:44
+count	../Sol/76.py	/^count = [0]*11$/;"	kind:variable	line:39
+count	../Sol/77.py	/^count = (rem[0]*(rem[0]-1) +$/;"	kind:variable	line:40
+count	../Sol/78.py	/^count = 0$/;"	kind:variable	line:39
+count	../Sol/79.py	/^count = 0$/;"	kind:variable	line:44
+count	../Sol/85.py	/^count = (r[0]*(r[0]-1) + r[6]*(r[6]-1)) \/\/ 2$/;"	kind:variable	line:39
+count	../Sol/86.py	/^count = 0$/;"	kind:variable	line:36
+count14	../Sol/83.py	/^count14 = m14 * N + m2 * m7 - m14 * (m14 + 1) \/\/ 2$/;"	kind:variable	line:43
+create_array	../sort/comparison.py	/^def create_array(size=10, mx=30):$/;"	kind:function	line:101
+create_array	../sort/insertion_sort.py	/^def create_array(size=10, mx=30):$/;"	kind:function	line:4
+create_array	../sort/merge_sort.py	/^def create_array(size=10, mx=100):$/;"	kind:function	line:3
+create_array	../sort/timsort.py	/^def create_array(size=10, mx=100):$/;"	kind:function	line:4
+create_array	../time_complexity/sum.py	/^def create_array(size):$/;"	kind:function	line:5
+create_sorted_array	../search/binary_interval_sesarch.py	/^def create_sorted_array(size=10, step=5):$/;"	kind:function	line:21
+create_sorted_array	../sort/insertion_sort.py	/^def create_sorted_array(size=10, step=5):$/;"	kind:function	line:6
+create_sorted_array	../time_complexity/sum.py	/^def create_sorted_array(size, step=5):$/;"	kind:function	line:9
+cur	../Sol/40.py	/^    cur = input().split()$/;"	kind:variable	line:53
+cur	../Sol/88.py	/^  cur = int(input())$/;"	kind:variable	line:37
+cur	../Sol/92.py	/^    cur = (cur + 1) % k  # переходим к следующему элементу$/;"	kind:variable	line:73
+cur	../Sol/92.py	/^cur = 0  # граница кольцевой очереди$/;"	kind:variable	line:54
+curDate	../Sol/30.py	/^curDate = date2dist(input())$/;"	kind:variable	line:44
+curHeight	../Sol/38.py	/^        curHeight = curHeight + x - xPrev$/;"	kind:variable	line:40
+curHeight	../Sol/38.py	/^       curHeight = 0$/;"	kind:variable	line:44
+curHeight	../Sol/38.py	/^curHeight = 0$/;"	kind:variable	line:33
+curLen	../Sol/106.py	/^      curLen = 1 # костяшка начинает новую цепочку $/;"	kind:variable	line:57
+curLen	../Sol/106.py	/^      curLen = 2 $/;"	kind:variable	line:52
+curLen	../Sol/106.py	/^      curLen = 2 $/;"	kind:variable	line:55
+curLen	../Sol/106.py	/^curLen = 1 # curLen - длина последней цепочки$/;"	kind:variable	line:38
+curTime	../Sol/16.py	/^curTime = time2Int(input())$/;"	kind:variable	line:43
+cur_number	../Exam/27/3130.py	/^    cur_number = int(inp.split(' ')[i])$/;"	kind:variable	line:5
+d	../27/7684.py	/^d = int(input())$/;"	kind:variable	line:10
+d	../Olimp/5.py	/^d = []$/;"	kind:variable	line:14
+d	../Sol/102.py	/^     d = x % 8$/;"	kind:variable	line:63
+d	../Sol/111.py	/^d = 4    # минимальная разница индексов$/;"	kind:variable	line:36
+d	../Sol/112.py	/^d = 4$/;"	kind:variable	line:34
+d	../Sol/65.py	/^  d = abs(x1-x2)$/;"	kind:variable	line:48
+d	../Sol/78.py	/^d = [1,2,3,6]$/;"	kind:variable	line:40
+d	../Sol/93.py	/^d = 6$/;"	kind:variable	line:30
+d	../pi_monte_carlo.py	/^    d = abs(pi-real_pi)$/;"	kind:variable	line:14
+d1	../24/1.py	/^    d1 = n%10$/;"	kind:variable	line:9
+d1	../24/1.py	/^d1 = 0$/;"	kind:variable	line:3
+d2	../24/1.py	/^    d2 = n%10$/;"	kind:variable	line:5
+data	../Sol/10.py	/^    data = res.get(mark)$/;"	kind:variable	line:51
+data	../Sol/13.py	/^    data = res.get(mark)$/;"	kind:variable	line:53
+data	../Sol/15.py	/^    data = input().split()$/;"	kind:variable	line:42
+date	../Sol/19.py	/^    date = '.'.join([y, m, d])$/;"	kind:variable	line:45
+date2dist	../Sol/30.py	/^def date2dist ( date ):$/;"	kind:function	line:36
+delete	../linked_list.py	/^    def delete(self,value):$/;"	kind:member	line:28
+delta	../Sol/65.py	/^     delta = d$/;"	kind:variable	line:50
+delta	../Sol/65.py	/^delta = 10001$/;"	kind:variable	line:44
+delta	../Sol/74-2.py	/^delta = [10000]*3 # список попарных разностей$/;"	kind:variable	line:34
+demo-2014.py	../Sol/demo-2014.py	1;"	kind:file	line:1
+demo-2014a.py	../Sol/demo-2014a.py	1;"	kind:file	line:1
+dig	../Sol/24.py	/^dig = []$/;"	kind:variable	line:30
+dist	../Sol/1.py	/^dist = [abs(average(x)-avgYear) for x in m_t];$/;"	kind:variable	line:46
+distMin	../Sol/1.py	/^distMin = min(dist)$/;"	kind:variable	line:47
+dk	../27/112.py	/^    dk = (8 - k) % 8$/;"	kind:variable	line:16
+dk	../Sol/111.py	/^  dk = (sk - k) % sk$/;"	kind:variable	line:53
+dk	../Sol/112.py	/^  dk = (8 - k) % 8  # парный остаток$/;"	kind:variable	line:49
+dp	../Sol/87.py	/^  dp = max(dp, 0) + x$/;"	kind:variable	line:37
+dp	../Sol/88.py	/^  dp = max(dp, 0) + cur - prev$/;"	kind:variable	line:38
+dp	../pi_monte_carlo.py	/^        dp = d$/;"	kind:variable	line:17
+dp	../pi_monte_carlo.py	/^dp = 20$/;"	kind:variable	line:6
+dp_max	../Sol/90.py	/^  dp_max = max(dp_min*x, max(dp_max*x, x))$/;"	kind:variable	line:35
+dp_min	../Sol/90.py	/^  dp_min = t$/;"	kind:variable	line:36
+draw	../flag.py	/^    def draw(self):$/;"	kind:member	line:77
+drawPidr	../flag.py	/^    def drawPidr(self):$/;"	kind:member	line:44
+drop	../matrix.py	/^class drop:$/;"	kind:class	line:16
+duplicates	../Coding Interview/Array/5.py	/^duplicates = {}$/;"	kind:variable	line:11
+elem	../27/7772.py	/^class elem:$/;"	kind:class	line:1
+elem	../Sol/54.py	/^  elem = int(input())$/;"	kind:variable	line:47
+encode	../Sol/22.py	/^def encode ( word ):$/;"	kind:function	line:32
+end	../book/movie_schedule.py	/^    end = int(inp.split(' ')[1])$/;"	kind:variable	line:20
+even	../27/7684.py	/^even = []$/;"	kind:variable	line:2
+exp	../27/6202.py	/^exp = int(input())$/;"	kind:variable	line:13
+failed	../Sol/7.py	/^failed = []$/;"	kind:variable	line:40
+fg	../flag.py	/^from sty import fg,bg,RgbFg$/;"	kind:namespace	line:6
+fg	../matrix.py	/^from sty import fg,RgbFg$/;"	kind:namespace	line:6
+fill	../matrix.py	/^    def fill(self,length):$/;"	kind:member	line:23
+find	../Coding Interview/Array/1.py	/^        find = True$/;"	kind:variable	line:16
+find	../Coding Interview/Array/1.py	/^find = False$/;"	kind:variable	line:12
+find	../sort/comparison.py	/^def find(arr,s):$/;"	kind:function	line:27
+find_sum	../time_complexity/sum.py	/^def find_sum(a):$/;"	kind:function	line:18
+fio	../Sol/44.py	/^    fio = input()$/;"	kind:variable	line:50
+first	../27/112.py	/^    first = buf[i%4]$/;"	kind:variable	line:11
+first	../Sol/111.py	/^  first = queue[i % d] # выбрали первый из очереди$/;"	kind:variable	line:47
+first	../Sol/112.py	/^  first = buf[i % d]$/;"	kind:variable	line:44
+flag.py	../flag.py	1;"	kind:file	line:1
+flip_hor	../flag.py	/^    def flip_hor(self):$/;"	kind:member	line:27
+flip_vert	../flag.py	/^    def flip_vert(self):$/;"	kind:member	line:21
+fm	../Exam/27/114.py	/^fm = [-1]*144$/;"	kind:variable	line:2
+fout	../Sol/in/genc4-1.py	/^fout = open("1.in", "w")$/;"	kind:variable	line:7
+frame	../flag.py	/^class frame:$/;"	kind:class	line:17
+free	../Sol/16.py	/^free = []$/;"	kind:variable	line:45
+freeTime	../Sol/45.py	/^freeTime = ['00:00'] * K$/;"	kind:variable	line:50
+func	../Olimp/7.py	/^def func(k,a):$/;"	kind:function	line:1
+genc4-1.py	../Sol/in/genc4-1.py	1;"	kind:file	line:1
+i	../25/1.py	/^i = 0$/;"	kind:variable	line:9
+i	../Coding Interview/Array/1.py	/^i = 0$/;"	kind:variable	line:13
+i	../Olimp/2.py	/^i = 0$/;"	kind:variable	line:3
+i	../Olimp/3.py	/^        i = a.index(max(a))$/;"	kind:variable	line:17
+i	../Sol/22.py	/^        i = j$/;"	kind:variable	line:56
+i	../Sol/22.py	/^i = 0$/;"	kind:variable	line:49
+i	../Sol/71.py	/^i = 0$/;"	kind:variable	line:54
+i	../Sol/96.py	/^i = 5$/;"	kind:variable	line:49
+iMax	../Sol/50.py	/^        iMax = i$/;"	kind:variable	line:55
+iMax	../Sol/72.py	/^iMax = [i for i in range(1,1001) if count[i] == maximum]$/;"	kind:variable	line:53
+im	../25/3.py	/^        im = i$/;"	kind:variable	line:16
+im	../Exam/25/1.py	/^        im = i$/;"	kind:variable	line:16
+im	../Exam/25/1.py	/^im = 0$/;"	kind:variable	line:6
+in_circle	../pi_monte_carlo.py	/^in_circle=0$/;"	kind:variable	line:4
+index	../Olimp/6.py	/^    index = 0$/;"	kind:variable	line:8
+index	../book/movie_schedule.py	/^    index = 0$/;"	kind:variable	line:27
+index1	../Coding Interview/Array/2.py	/^    index1 = int(random.random()*1000)$/;"	kind:variable	line:9
+index2	../Coding Interview/Array/2.py	/^    index2 = int(random.random()*1000)$/;"	kind:variable	line:10
+inp	../Exam/27/3130.py	/^inp = input()$/;"	kind:variable	line:3
+inp	../Exam/27/5258.py	/^    inp = input()$/;"	kind:variable	line:19
+inp	../Exam/27/7321.py	/^    inp = input()$/;"	kind:variable	line:6
+inp	../Sol/74.py	/^  inp = list(map(int,input().split())) #считаем очередную тройку$/;"	kind:variable	line:45
+inp	../Sol/74.py	/^inp = list(map(int, input().split()))  #считываем первую тройку $/;"	kind:variable	line:36
+inp	../book/movie_schedule.py	/^    inp = input()$/;"	kind:variable	line:18
+insert	../Olimp/binary_search_tree.py	/^    def insert(self,value):$/;"	kind:member	line:11
+insert	../Sol/48.py	/^def insert ( res0, name0 ):$/;"	kind:function	line:73
+insert	../binary_search_tree.py	/^    def insert(self,value):$/;"	kind:member	line:11
+insert	../linked_list.py	/^    def insert(self,value):$/;"	kind:member	line:16
+insertion_sort	../sort/comparison.py	/^def insertion_sort(a):$/;"	kind:function	line:57
+insertion_sort	../sort/insertion_sort.py	/^def insertion_sort(a):$/;"	kind:function	line:36
+insertion_sort	../sort/timsort.py	/^def insertion_sort(a):$/;"	kind:function	line:48
+insertion_sort.py	../sort/insertion_sort.py	1;"	kind:file	line:1
+intersection	../Olimp/4.py	/^def intersection(b1, e1, b2, e2):$/;"	kind:function	line:1
+is_connected	../Olimp/7.py	/^is_connected = []$/;"	kind:variable	line:30
+is_empty	../linked_list.py	/^    def is_empty(self):$/;"	kind:member	line:10
+is_prime	../test.py	/^def is_prime(a):$/;"	kind:function	line:3
+is_prime	../time_complexity/sum.py	/^def is_prime(a):$/;"	kind:function	line:64
+j	../25/1.py	/^        j = 1$/;"	kind:variable	line:14
+j	../25/1.py	/^j = 0$/;"	kind:variable	line:10
+j	../25/2.py	/^        j =a[i]$/;"	kind:variable	line:11
+j	../25/2.py	/^j = 1000$/;"	kind:variable	line:8
+j	../27/5258.py	/^j = 0$/;"	kind:variable	line:19
+j	../Exam/27/5258.py	/^j = 0$/;"	kind:variable	line:17
+j	../Olimp/6.py	/^    j = 1$/;"	kind:variable	line:10
+j	../Sol/22.py	/^        j = i+1$/;"	kind:variable	line:52
+k	../25/3.py	/^    k = 0$/;"	kind:variable	line:10
+k	../27/112.py	/^    k = first % 8$/;"	kind:variable	line:12
+k	../27/112.py	/^    k = x % 8$/;"	kind:variable	line:15
+k	../27/116.py	/^k = int(k)$/;"	kind:variable	line:3
+k	../27/5258.py	/^k = 0 $/;"	kind:variable	line:29
+k	../Exam/25/1.py	/^    k = 1$/;"	kind:variable	line:9
+k	../Olimp/7.py	/^k = int(k)$/;"	kind:variable	line:27
+k	../Olimp2/1.py	/^k = (y[1]-y[0])\/(x[1]-x[0])$/;"	kind:variable	line:8
+k	../Olimp2/A.py	/^k = (y[1]-y[0])\/(x[1]-x[0])$/;"	kind:variable	line:11
+k	../Sol/100.py	/^k = [ [0,0,0], [0,0,0], [0,0,0] ]$/;"	kind:variable	line:42
+k	../Sol/105.py	/^k = 0$/;"	kind:variable	line:46
+k	../Sol/108.py	/^k = 0$/;"	kind:variable	line:45
+k	../Sol/111.py	/^  k = a % sk        # и ищем ему пару  $/;"	kind:variable	line:52
+k	../Sol/111.py	/^  k = first % sk$/;"	kind:variable	line:48
+k	../Sol/112.py	/^  k = first % 8$/;"	kind:variable	line:45
+k	../Sol/112.py	/^  k = x % 8$/;"	kind:variable	line:48
+k	../Sol/34.py	/^    k = 1$/;"	kind:variable	line:34
+k	../Sol/49.py	/^    k = i$/;"	kind:variable	line:70
+k	../Sol/49.py	/^k = 0$/;"	kind:variable	line:67
+k	../Sol/79.py	/^    k = (24 - i - j) % 12$/;"	kind:variable	line:47
+k	../Sol/92.py	/^k = 6  # отступ от текущего значения$/;"	kind:variable	line:52
+k	../Sol/98.py	/^  k = k1*(k1-1) \/\/ 2$/;"	kind:variable	line:55
+k	../Sol/98.py	/^  k = k2$/;"	kind:variable	line:57
+k	../Sol/99.py	/^k = [ [0,0,0], [0,0,0], [0,0,0] ]$/;"	kind:variable	line:37
+k1	../Sol/98.py	/^    k1 = 0$/;"	kind:variable	line:45
+k1	../Sol/98.py	/^k1 = 0$/;"	kind:variable	line:37
+k2	../Sol/98.py	/^    k2 = 0  $/;"	kind:variable	line:48
+k2	../Sol/98.py	/^    k2 = k1$/;"	kind:variable	line:43
+key	../Sol/41.py	/^             key = lambda x: (-x[1], x[0]) )$/;"	kind:variable	line:58
+km	../25/3.py	/^        km = k$/;"	kind:variable	line:15
+km	../25/3.py	/^km = 0$/;"	kind:variable	line:8
+km	../Exam/25/1.py	/^        km = k$/;"	kind:variable	line:15
+km	../Exam/25/1.py	/^km = 1$/;"	kind:variable	line:7
+l	../flag.py	/^l = loading()$/;"	kind:variable	line:356
+lWing	../Sol/26.py	/^lWing = ""$/;"	kind:variable	line:34
+lWing	../Sol/27.py	/^lWing = ""$/;"	kind:variable	line:38
+lWing	../Sol/28.py	/^lWing = ""$/;"	kind:variable	line:43
+letter	../Sol/17.py	/^        letter = string.ascii_lowercase[(n + L - K) % L]$/;"	kind:variable	line:47
+letter	../Sol/17.py	/^        letter = string.ascii_uppercase[(n + L - K) % L]$/;"	kind:variable	line:44
+letters	../Sol/22.py	/^letters = string.ascii_uppercase + string.ascii_lowercase$/;"	kind:variable	line:48
+linked_list	../linked_list.py	/^class linked_list:$/;"	kind:class	line:6
+linked_list.py	../linked_list.py	1;"	kind:file	line:1
+loading	../flag.py	/^class loading:$/;"	kind:class	line:33
+login	../Sol/4.py	/^login = {}$/;"	kind:variable	line:42
+loop	../flag.py	/^    def loop(self):$/;"	kind:member	line:40
+m	../24/1.py	/^        m = s$/;"	kind:variable	line:8
+m	../24/1.py	/^m = 0$/;"	kind:variable	line:2
+m	../Exam/TODO_13423.py	/^        m = i$/;"	kind:variable	line:19
+m	../Exam/TODO_13423.py	/^        m = i$/;"	kind:variable	line:21
+m	../Exam/TODO_13423.py	/^m = a[a.keys()[0]]$/;"	kind:variable	line:16
+m	../Olimp/1.test.py	/^m = 1000000$/;"	kind:variable	line:25
+m	../Olimp/5.py	/^m = max(a)$/;"	kind:variable	line:13
+m	../Sol/101.py	/^m = [ [-10001]*3 for _ in range(3) ]$/;"	kind:variable	line:44
+m	../Sol/111.py	/^m = [0]*sk$/;"	kind:variable	line:37
+m	../Sol/73.py	/^      m=max(a)$/;"	kind:variable	line:40
+m	../Sol/91.py	/^m = max(0, m-aMax*n+s)$/;"	kind:variable	line:46
+m	../Sol/94.py	/^  m = int(input())$/;"	kind:variable	line:45
+m	../time_complexity/sum.py	/^m = int(input())$/;"	kind:variable	line:72
+m1	../27/15937.py	/^        m1 = even[i]$/;"	kind:variable	line:13
+m1	../27/6202.py	/^            m1 = max(m1,t)$/;"	kind:variable	line:8
+m1	../Sol/98.py	/^    m1 = a$/;"	kind:variable	line:44
+m2	../27/15937.py	/^        m2 = odd[i]$/;"	kind:variable	line:17
+m2	../27/6202.py	/^            m2 = max(m2,t)$/;"	kind:variable	line:10
+m2	../Sol/101.py	/^      m2 = a$/;"	kind:variable	line:55
+m2	../Sol/101.py	/^      m2 = m[0][0] # сохраняем второй максимум для (0;0);$/;"	kind:variable	line:53
+m2	../Sol/101.py	/^m2 = -10001$/;"	kind:variable	line:43
+m2	../Sol/98.py	/^    m2 = a$/;"	kind:variable	line:47
+m2	../Sol/98.py	/^    m2 = m1$/;"	kind:variable	line:42
+m3a	../Sol/61.py	/^            m3a = x$/;"	kind:variable	line:53
+m3b	../Sol/61.py	/^            m3b = m3a            $/;"	kind:variable	line:52
+m3b	../Sol/61.py	/^            m3b = x                $/;"	kind:variable	line:55
+mDays	../Sol/in/genc4-1.py	/^mDays = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];$/;"	kind:variable	line:5
+m_t	../Sol/1.py	/^m_t = [[], [], [], [], [], [], [], [], [], [], [], []]$/;"	kind:variable	line:36
+ma	../Sol/103.py	/^ma = 3*[0]$/;"	kind:variable	line:40
+ma	../Sol/104.py	/^ma = 3*[0]$/;"	kind:variable	line:40
+ma	../Sol/115.py	/^ma = []$/;"	kind:variable	line:39
+maX	../Sol/42.py	/^        maX = v$/;"	kind:variable	line:55
+mark	../Sol/10.py	/^    mark = int(mark)$/;"	kind:variable	line:40
+mark	../Sol/13.py	/^    mark = int(mark)$/;"	kind:variable	line:42
+marks	../Sol/0-2.py	/^    marks = [int(x) for x in [m1, m2, m3]]$/;"	kind:variable	line:35
+marks	../Sol/5.py	/^    marks = [int(x) for x in [m1, m2, m3]]$/;"	kind:variable	line:39
+math	../25/3.py	/^import math$/;"	kind:namespace	line:2
+math	../Sol/34.py	/^import math$/;"	kind:namespace	line:31
+math	../flag.py	/^import math$/;"	kind:namespace	line:5
+math	../matrix.py	/^import math$/;"	kind:namespace	line:4
+math	../pi_monte_carlo.py	/^import math$/;"	kind:namespace	line:2
+math	../test.py	/^import math$/;"	kind:namespace	line:1
+math	../time_complexity/sum.py	/^import math$/;"	kind:namespace	line:3
+matrix.py	../matrix.py	1;"	kind:file	line:1
+max1	../Sol/113.py	/^max1 = [0]*2$/;"	kind:variable	line:38
+max2	../Sol/42.py	/^        max2 = maX $/;"	kind:variable	line:54
+max59	../Sol/113.py	/^max59 = [0]*2$/;"	kind:variable	line:39
+max6	../Sol/37.py	/^        max6 = x$/;"	kind:variable	line:59
+max7	../Sol/51.py	/^    max7 = x$/;"	kind:variable	line:50
+max7	../Sol/51.py	/^max7 = 0  $/;"	kind:variable	line:43
+maxAll	../Sol/63.py	/^    maxAll = max(maxAll, Buf[i % K])$/;"	kind:variable	line:60
+maxAll	../Sol/63.py	/^maxAll = -1$/;"	kind:variable	line:54
+maxBall	../Sol/33.py	/^        maxBall = ball$/;"	kind:variable	line:54
+maxBall	../Sol/33.py	/^maxBall = 0$/;"	kind:variable	line:49
+maxCount	../Sol/33.py	/^maxCount = max([x[1] for x in cntMax.items()])$/;"	kind:variable	line:60
+maxEven	../Sol/63.py	/^      maxEven = max(maxEven, Buf[i % K])$/;"	kind:variable	line:59
+maxEven	../Sol/63.py	/^maxEven = -1$/;"	kind:variable	line:53
+maxHeight	../Sol/38.py	/^            maxHeight = curHeight$/;"	kind:variable	line:42
+maxHeight	../Sol/38.py	/^maxHeight = 0$/;"	kind:variable	line:32
+maxLen	../Sol/106.py	/^    maxLen = curLen $/;"	kind:variable	line:59
+maxLen	../Sol/106.py	/^maxLen = 1 # maxLen - длина максимальной цепочки$/;"	kind:variable	line:37
+maxPrev	../Sol/54.py	/^    maxPrev = max(maxPrev, next)$/;"	kind:variable	line:54
+maxPrev	../Sol/54.py	/^    maxPrev = next$/;"	kind:variable	line:51
+maxPrev	../Sol/58.py	/^    maxPrev = max(maxPrev, Buf[i % K])$/;"	kind:variable	line:50
+maxPrev	../Sol/58.py	/^maxPrev = 0$/;"	kind:variable	line:46
+maxRes	../Sol/58.py	/^  maxRes = max(maxRes, maxPrev*Buf[i % K])$/;"	kind:variable	line:52
+maxRes	../Sol/58.py	/^maxRes = 0$/;"	kind:variable	line:47
+maxRes	../Sol/63.py	/^    maxRes = max(maxRes, maxAll*Buf[i % K])$/;"	kind:variable	line:63
+maxRes	../Sol/63.py	/^    maxRes = max(maxRes, maxEven*Buf[i % K])$/;"	kind:variable	line:65
+maxRes	../Sol/63.py	/^maxRes = -1$/;"	kind:variable	line:55
+maxStip	../Sol/31.py	/^   maxStip = max([x[1] for x in allStip[course]])$/;"	kind:variable	line:42
+maxSum	../Sol/54.py	/^    maxSum = max(maxSum, maxPrev+elem)$/;"	kind:variable	line:55
+maxSum	../Sol/54.py	/^    maxSum = next + elem$/;"	kind:variable	line:52
+max_1	../27/113.py	/^        max_1 = a$/;"	kind:variable	line:11
+max_1	../27/113.py	/^max_1 = 0$/;"	kind:variable	line:3
+max_10	../Sol/84.py	/^    max_10 = max(max_10, x)$/;"	kind:variable	line:42
+max_118	../27/113.py	/^        max_118 = a$/;"	kind:variable	line:9
+max_118	../27/113.py	/^max_118 = 0$/;"	kind:variable	line:2
+max_2	../27/113.py	/^        max_2 = a$/;"	kind:variable	line:13
+max_2	../27/113.py	/^max_2 = 0$/;"	kind:variable	line:5
+max_2x	../Sol/84.py	/^    max_2x = max(max_2x, x)$/;"	kind:variable	line:44
+max_59	../27/113.py	/^        max_59 = a$/;"	kind:variable	line:15
+max_59	../27/113.py	/^max_59 = 0$/;"	kind:variable	line:4
+max_number	../Coding Interview/Array/3.py	/^    max_number = max(max_number,a[i])$/;"	kind:variable	line:14
+max_number	../Coding Interview/Array/3.py	/^max_number = a[0]$/;"	kind:variable	line:11
+max_otr1	../Sol/94.py	/^      max_otr1 = m$/;"	kind:variable	line:56
+max_otr1	../Sol/94.py	/^max_otr1 = -101     # Максимальное отрицательное нечетное число$/;"	kind:variable	line:36
+max_otr2	../Sol/94.py	/^        max_otr2 = m$/;"	kind:variable	line:58
+max_otr2	../Sol/94.py	/^      max_otr2 =  max_otr1$/;"	kind:variable	line:55
+max_otr2	../Sol/94.py	/^max_otr2 = -101     # Второе максимальное отрицательное $/;"	kind:variable	line:37
+max_otr_ch	../Sol/94.py	/^        max_otr_ch = m$/;"	kind:variable	line:53
+max_otr_ch	../Sol/94.py	/^max_otr_ch = -201   # Максимальное отрицательное четное число.  $/;"	kind:variable	line:39
+max_sub	../Sol/104.py	/^    max_sub = a[5] - mi[a[5]%3]$/;"	kind:variable	line:59
+max_sub	../Sol/104.py	/^    max_sub = ma[a[5]%3] - a[5]$/;"	kind:variable	line:57
+max_sub	../Sol/104.py	/^max_sub = -1001$/;"	kind:variable	line:41
+max_x5	../Sol/84.py	/^    max_x5 = max(max_x5, x)$/;"	kind:variable	line:46
+max_xx	../Sol/84.py	/^    max_xx = max(max_xx, x)$/;"	kind:variable	line:48
+max_xx	../Sol/84.py	/^max_xx = max(max_xx, max_x5)$/;"	kind:variable	line:50
+maximum	../Sol/72.py	/^maximum = max(count)$/;"	kind:variable	line:52
+maxs	../Sol/109.py	/^maxs = 0$/;"	kind:variable	line:48
+maze	../maze.py	/^class maze:$/;"	kind:class	line:41
+maze.py	../maze.py	1;"	kind:file	line:1
+merge	../sort/comparison.py	/^def merge(a,b):$/;"	kind:function	line:3
+merge	../sort/merge_sort.py	/^def merge(a,b):$/;"	kind:function	line:6
+merge	../sort/timsort.py	/^def merge(a,b):$/;"	kind:function	line:7
+merge_sort	../sort/comparison.py	/^def merge_sort(a):$/;"	kind:function	line:21
+merge_sort	../sort/merge_sort.py	/^def merge_sort(a):$/;"	kind:function	line:25
+merge_sort.py	../sort/merge_sort.py	1;"	kind:file	line:1
+mi	../Sol/103.py	/^mi = 3*[1001]$/;"	kind:variable	line:39
+mi	../Sol/104.py	/^mi = 3*[1001]$/;"	kind:variable	line:39
+mi	../Sol/74-2.py	/^    mi = min(num_list) $/;"	kind:variable	line:37
+miN	../Sol/42.py	/^        miN = v$/;"	kind:variable	line:51
+middle	../Sol/14.py	/^        middle = s[0]*n$/;"	kind:variable	line:40
+middle	../Sol/14.py	/^middle = ""$/;"	kind:variable	line:31
+min2	../Sol/42.py	/^        min2 = miN$/;"	kind:variable	line:50
+minCount	../Sol/0-1.py	/^minCount = min(schCount.values())$/;"	kind:variable	line:34
+minCount	../Sol/76.py	/^    minCount = count[i]$/;"	kind:variable	line:49
+minCount	../Sol/76.py	/^minCount = N + 1$/;"	kind:variable	line:46
+minLen	../Sol/76.py	/^    minLen = i$/;"	kind:variable	line:50
+minOdd	../Sol/60.py	/^      minOdd = min(minOdd, Buf[i % K])$/;"	kind:variable	line:58
+minOdd	../Sol/60.py	/^minOdd = 1000$/;"	kind:variable	line:53
+minPrev	../Sol/55.py	/^    minPrev = min(minPrev, Buf[i % K])$/;"	kind:variable	line:49
+minPrev	../Sol/55.py	/^minPrev = 1001$/;"	kind:variable	line:45
+minPrev	../Sol/56.py	/^    minPrev = min(minPrev, Buf[i % K])$/;"	kind:variable	line:58
+minPrev	../Sol/56.py	/^minPrev = 1001$/;"	kind:variable	line:54
+minPrev	../Sol/59.py	/^    minPrev = min(minPrev, Buf[i % K])$/;"	kind:variable	line:47
+minPrev	../Sol/59.py	/^minPrev = 1001$/;"	kind:variable	line:43
+minRes	../Sol/55.py	/^  minRes = min(minRes, minPrev**2 + Buf[i % K]**2)$/;"	kind:variable	line:51
+minRes	../Sol/55.py	/^minRes = 2*1000**2 + 1$/;"	kind:variable	line:46
+minRes	../Sol/56.py	/^  minRes = min(minRes, minPrev*Buf[i % K])$/;"	kind:variable	line:60
+minRes	../Sol/56.py	/^minRes = 1000*1000 + 1$/;"	kind:variable	line:55
+minRes	../Sol/59.py	/^  minRes = min(minRes, minPrev+Buf[i % K])$/;"	kind:variable	line:49
+minRes	../Sol/59.py	/^minRes = 2001$/;"	kind:variable	line:44
+minRes	../Sol/60.py	/^    minRes = min(minRes, minOdd*Buf[i % K])$/;"	kind:variable	line:61
+minRes	../Sol/60.py	/^minRes = 1000000$/;"	kind:variable	line:54
+minX	../Sol/66.py	/^      minX = x$/;"	kind:variable	line:46
+minX	../Sol/66.py	/^minX = 10001 # любое, большее 10000 $/;"	kind:variable	line:40
+min_a	../Sol/92.py	/^        min_a = buf[cur]  # обновляем минимальный элемент$/;"	kind:variable	line:63
+min_a	../Sol/92.py	/^min_a = mp  # для минимальных значений$/;"	kind:variable	line:55
+min_e	../Sol/92.py	/^        min_e = buf[cur]  # обновляем минимальный чётный элемент$/;"	kind:variable	line:65
+min_e	../Sol/92.py	/^min_e = mp  # для минимальных чётных значений$/;"	kind:variable	line:56
+min_endpoint	../book/movie_schedule.py	/^    min_endpoint = a[0].end$/;"	kind:variable	line:26
+min_length	../Exam/27/7321.py	/^        min_length = min(min_length, path_length)$/;"	kind:variable	line:22
+min_length	../Exam/27/7321.py	/^        min_length = path_length$/;"	kind:variable	line:20
+min_number	../Coding Interview/Array/3.py	/^    min_number = min(min_number,a[i])$/;"	kind:variable	line:15
+min_number	../Coding Interview/Array/3.py	/^min_number = a[0]$/;"	kind:variable	line:12
+min_pol_nch	../Sol/94.py	/^      min_pol_nch = m$/;"	kind:variable	line:48
+min_pol_nch	../Sol/94.py	/^min_pol_nch = 101   # Минимальное положительное нечетное число   $/;"	kind:variable	line:42
+min_sub	../Sol/103.py	/^    min_sub = a[5] - ma[a[5]%3]$/;"	kind:variable	line:57
+min_sub	../Sol/103.py	/^    min_sub = mi[a[5]%3] - a[5]$/;"	kind:variable	line:59
+min_sub	../Sol/103.py	/^min_sub = 1001$/;"	kind:variable	line:41
+mind	../Sol/73.py	/^          mind=min([m-num , mind]) if (m-num)% 4 else mind$/;"	kind:variable	line:43
+missing_number	../Coding Interview/Array/1.py	/^missing_number = int(random.random()*100)$/;"	kind:variable	line:5
+mn	../27/1.py	/^mn = [10001]*60$/;"	kind:variable	line:2
+mn	../27/116.py	/^            mn = a[j]$/;"	kind:variable	line:19
+mn	../27/116.py	/^    mn = a[i]$/;"	kind:variable	line:14
+moreThan3days	../Sol/30.py	/^moreThan3days = [x for x in cells.items() if curDate-date2dist(x[1]) > 3]$/;"	kind:variable	line:52
+mostFr	../Sol/2.py	/^mostFr = sorted([x for x in cnt if x[1] == cnt[0][1]])$/;"	kind:variable	line:35
+movie	../book/movie_schedule.py	/^class movie:$/;"	kind:class	line:1
+movie_schedule.py	../book/movie_schedule.py	1;"	kind:file	line:1
+mp	../Sol/92.py	/^            mp = temp * min_a$/;"	kind:variable	line:68
+mp	../Sol/92.py	/^            mp = temp * min_e$/;"	kind:variable	line:71
+mp	../Sol/92.py	/^    mp = -1$/;"	kind:variable	line:75
+mp	../Sol/92.py	/^mp = 1002 * 1002  # минимальное значение в последовательности$/;"	kind:variable	line:53
+msg	../Sol/17.py	/^msg = sys.stdin.read().split('.')[0]$/;"	kind:variable	line:34
+msgNew	../Sol/17.py	/^    msgNew = msgNew + letter$/;"	kind:variable	line:48
+msgNew	../Sol/17.py	/^msgNew = ""$/;"	kind:variable	line:40
+mx	../27/1.py	/^mx = [0]*60$/;"	kind:variable	line:3
+mx	../27/116.py	/^            mx = a[j]$/;"	kind:variable	line:17
+mx	../27/116.py	/^    mx = a[i]$/;"	kind:variable	line:13
+mx	../Sol/110.py	/^    mx = x$/;"	kind:variable	line:49
+mx	../Sol/110.py	/^mx = 0$/;"	kind:variable	line:41
+mx	../Sol/51.py	/^mx = 0 $/;"	kind:variable	line:42
+mx	../Sol/88.py	/^  mx = max(mx, dp)$/;"	kind:variable	line:39
+mx	../Sol/90.py	/^  mx = max(mx, dp_max)$/;"	kind:variable	line:37
+mxs	../Sol/87.py	/^  mxs = max(dp, mxs)$/;"	kind:variable	line:38
+n	../24/1.py	/^n = int(input())$/;"	kind:variable	line:1
+n	../25/2.py	/^n = 30$/;"	kind:variable	line:4
+n	../25/3.py	/^n = 100$/;"	kind:variable	line:4
+n	../27/1.py	/^n = int(input()) #8 75 123 5 40 15 3 65 80 ++++ 3 123$/;"	kind:variable	line:1
+n	../27/112.py	/^n = int(input())$/;"	kind:variable	line:1
+n	../27/113.py	/^n = int(input())$/;"	kind:variable	line:1
+n	../27/116.py	/^n = int(n)$/;"	kind:variable	line:2
+n	../27/15937.py	/^n = int(input())$/;"	kind:variable	line:2
+n	../27/5258.py	/^n = int(input())$/;"	kind:variable	line:17
+n	../27/5258.py	/^n = len(a)$/;"	kind:variable	line:28
+n	../27/6202.py	/^n = 0$/;"	kind:variable	line:2
+n	../27/7684.py	/^n = int(input())$/;"	kind:variable	line:1
+n	../27/7772.py	/^n = int(input())$/;"	kind:variable	line:7
+n	../Coding Interview/Array/4.py	/^n = int(input())$/;"	kind:variable	line:17
+n	../Exam/25/1.py	/^n = 5$/;"	kind:variable	line:2
+n	../Exam/27/114.py	/^n = int(input())$/;"	kind:variable	line:1
+n	../Exam/27/3130.py	/^n = int(input())$/;"	kind:variable	line:1
+n	../Exam/27/5258.py	/^n = int(input())$/;"	kind:variable	line:14
+n	../Exam/27/5258.py	/^n = j$/;"	kind:variable	line:30
+n	../Exam/27/7321.py	/^n = int(input())$/;"	kind:variable	line:1
+n	../Exam/TODO_13423.py	/^n = int(input())$/;"	kind:variable	line:7
+n	../Olimp/1.test.py	/^n = 1000000$/;"	kind:variable	line:18
+n	../Olimp/2.py	/^n = int(input())$/;"	kind:variable	line:1
+n	../Olimp/3.py	/^n = int(input())$/;"	kind:variable	line:5
+n	../Olimp/5.py	/^n = int(input())$/;"	kind:variable	line:6
+n	../Olimp/6.py	/^            n = 1$/;"	kind:variable	line:17
+n	../Olimp/6.py	/^    n = 1$/;"	kind:variable	line:9
+n	../Olimp/7.py	/^n = int(n)$/;"	kind:variable	line:26
+n	../Olimp2/1.py	/^n = int(input())$/;"	kind:variable	line:1
+n	../Olimp2/A.py	/^n = int(input())$/;"	kind:variable	line:1
+n	../Olimp2/G copy.py	/^n = 100$/;"	kind:variable	line:3
+n	../Olimp2/G copy.py	/^n = len(a)$/;"	kind:variable	line:8
+n	../Olimp2/G.py	/^n = int(input())$/;"	kind:variable	line:1
+n	../Olimp2/G.py	/^n = len(a)$/;"	kind:variable	line:9
+n	../Olimp2/test.py	/^n = int(input())$/;"	kind:variable	line:1
+n	../Sol/100.py	/^n = int( input() )$/;"	kind:variable	line:44
+n	../Sol/101.py	/^n = int( input() )$/;"	kind:variable	line:46
+n	../Sol/103.py	/^n = int(input())$/;"	kind:variable	line:43
+n	../Sol/104.py	/^n = int(input())$/;"	kind:variable	line:43
+n	../Sol/105.py	/^n = int(input())$/;"	kind:variable	line:41
+n	../Sol/106.py	/^n = int(input()) $/;"	kind:variable	line:40
+n	../Sol/107.py	/^n = int(input())$/;"	kind:variable	line:39
+n	../Sol/108.py	/^n = int(input()) $/;"	kind:variable	line:44
+n	../Sol/109.py	/^n = int(input())$/;"	kind:variable	line:47
+n	../Sol/110.py	/^n = int(input())$/;"	kind:variable	line:40
+n	../Sol/111.py	/^n = int(input())     $/;"	kind:variable	line:41
+n	../Sol/112.py	/^n = int(input())$/;"	kind:variable	line:35
+n	../Sol/113.py	/^n = int(input())$/;"	kind:variable	line:41
+n	../Sol/114.py	/^n = int(input())$/;"	kind:variable	line:54
+n	../Sol/14.py	/^    n = s.count(s[0])$/;"	kind:variable	line:34
+n	../Sol/17.py	/^    n = string.ascii_lowercase.find(letter)$/;"	kind:variable	line:45
+n	../Sol/17.py	/^    n = string.ascii_uppercase.find(letter)$/;"	kind:variable	line:42
+n	../Sol/35.py	/^    n = int(input())$/;"	kind:variable	line:45
+n	../Sol/69a.py	/^n = int(input())$/;"	kind:variable	line:37
+n	../Sol/74.py	/^n = int(input())$/;"	kind:variable	line:33
+n	../Sol/80.py	/^n = int(input())$/;"	kind:variable	line:33
+n	../Sol/81.py	/^n = int(input())$/;"	kind:variable	line:38
+n	../Sol/82.py	/^n = int(input())$/;"	kind:variable	line:39
+n	../Sol/87.py	/^n = int(input())$/;"	kind:variable	line:33
+n	../Sol/88.py	/^n = int(input())$/;"	kind:variable	line:33
+n	../Sol/89.py	/^n = int(input())$/;"	kind:variable	line:37
+n	../Sol/90.py	/^n = int(input())$/;"	kind:variable	line:30
+n	../Sol/93.py	/^n = int(input())$/;"	kind:variable	line:33
+n	../Sol/94.py	/^n = int(input())$/;"	kind:variable	line:35
+n	../Sol/95.py	/^n = int(input())$/;"	kind:variable	line:38
+n	../Sol/96.py	/^  n = int(input())$/;"	kind:variable	line:46
+n	../Sol/96.py	/^  n = int(input())$/;"	kind:variable	line:51
+n	../Sol/97.py	/^n = int( input() )$/;"	kind:variable	line:43
+n	../Sol/98.py	/^n = int( input() )$/;"	kind:variable	line:35
+n	../Sol/99.py	/^n = int( input() )$/;"	kind:variable	line:39
+n	../book/movie_schedule.py	/^n = int(input())$/;"	kind:variable	line:12
+n	../pi_monte_carlo.py	/^n=0$/;"	kind:variable	line:5
+n	../sort/comparison.py	/^n = int(input())$/;"	kind:variable	line:104
+n	../sort/insertion_sort.py	/^n = int(input())$/;"	kind:variable	line:43
+n	../sort/timsort.py	/^n = int(input())    $/;"	kind:variable	line:64
+n	../time_complexity/sum.py	/^n = int(input())$/;"	kind:variable	line:74
+n20	../Sol/23.py	/^n20 = int( 0.2*len(res) )$/;"	kind:variable	line:54
+n25	../Sol/11.py	/^n25 = len(total) \/\/ 4$/;"	kind:variable	line:57
+nBest	../Sol/20.py	/^nBest = [x[0] for x in res].count(res[0][0])$/;"	kind:variable	line:54
+nMax	../Sol/23.py	/^nMax = res.count(res[0])$/;"	kind:variable	line:55
+nMax	../Sol/52.py	/^      nMax = k$/;"	kind:variable	line:71
+nMax	../Sol/52.py	/^  nMax = 0$/;"	kind:variable	line:68
+next	../Sol/54.py	/^  next = Buf[i % K] $/;"	kind:variable	line:48
+next_step	../maze.py	/^    def next_step(self, arr):$/;"	kind:member	line:22
+node	../Olimp/binary_search_tree.py	/^class node:$/;"	kind:class	line:1
+node	../binary_search_tree.py	/^class node:$/;"	kind:class	line:1
+node	../linked_list.py	/^class node:$/;"	kind:class	line:1
+notFound	../Sol/29.py	/^notFound = [x[0] for x in cnt.items() if x[1] == 0]$/;"	kind:variable	line:33
+np	../maze.py	/^import numpy as np$/;"	kind:namespace	line:2
+ns	../Sol/96.py	/^ns = [0]*5$/;"	kind:variable	line:41
+num	../Sol/92.py	/^num = int(input())  # считать количество значений$/;"	kind:variable	line:57
+numPeople	../Sol/8.py	/^numPeople = [x[1] for x in podr.items()]$/;"	kind:variable	line:37
+numVal	../Sol/40.py	/^numVal = {}$/;"	kind:variable	line:47
+num_len	../Sol/76.py	/^  num_len = len(s)$/;"	kind:variable	line:43
+num_list	../Sol/74-2.py	/^    num_list = [int(x) for x in input().split()] # список из очередной тройки чисел$/;"	kind:variable	line:36
+nums	../Sol/40.py	/^nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 10, 20, 30, 40, 50, 60, 70, 80, 90]$/;"	kind:variable	line:46
+odd	../27/7684.py	/^odd = []$/;"	kind:variable	line:3
+open_file	../maze.py	/^    def open_file(self, file):$/;"	kind:member	line:47
+order	../Olimp/3.py	/^order = ''$/;"	kind:variable	line:10
+os	../Olimp/3.py	/^import os$/;"	kind:namespace	line:1
+os	../flag.py	/^import os$/;"	kind:namespace	line:1
+os	../matrix.py	/^import os$/;"	kind:namespace	line:5
+ost	../27/112.py	/^ost = [0]*8$/;"	kind:variable	line:4
+ost	../Sol/112.py	/^ost = [0]*8$/;"	kind:variable	line:36
+ost	../Sol/52.py	/^  ost = K % D$/;"	kind:variable	line:61
+overlaps	../book/movie_schedule.py	/^    def overlaps(self,movie):$/;"	kind:member	line:6
+p	../Olimp2/D.py	/^    p = sum_digits(p)$/;"	kind:variable	line:16
+p	../Olimp2/D.py	/^p = 1$/;"	kind:variable	line:10
+p	../Olimp2/D.py	/^p = sum_digits(p)$/;"	kind:variable	line:14
+pList	../Sol/18.py	/^pList = sorted(pList.items(), key = lambda x: x[1], reverse = True)$/;"	kind:variable	line:46
+pList	../Sol/18.py	/^pList = {}$/;"	kind:variable	line:42
+pList	../Sol/19.py	/^pList = []$/;"	kind:variable	line:41
+pMin	../Sol/32.py	/^pMin = min(cnt)$/;"	kind:variable	line:53
+pName	../Sol/18.py	/^    pName = input()$/;"	kind:variable	line:44
+pair	../Coding Interview/Array/4.py	/^class pair:$/;"	kind:class	line:11
+pair	../Sol/114.py	/^    pair = a[rem2]$/;"	kind:variable	line:62
+pairs	../Coding Interview/Array/4.py	/^pairs = []$/;"	kind:variable	line:16
+partition	../sort/quick_sort.py	/^def partition(arr,low,high): $/;"	kind:function	line:16
+passList	../Sol/45.py	/^passList = []$/;"	kind:variable	line:51
+path	../book/movie_schedule.py	/^path = []$/;"	kind:variable	line:15
+path_length	../Exam/27/7321.py	/^    path_length = 0$/;"	kind:variable	line:14
+pi	../pi_monte_carlo.py	/^    pi = 4*in_circle\/n$/;"	kind:variable	line:13
+pi_monte_carlo.py	../pi_monte_carlo.py	1;"	kind:file	line:1
+place	../Sol/15.py	/^place = 0$/;"	kind:variable	line:47
+podr	../Sol/8.py	/^podr = {}$/;"	kind:variable	line:32
+point	../27/5258.py	/^class point:$/;"	kind:class	line:1
+point	../Exam/27/5258.py	/^class point:$/;"	kind:class	line:1
+point	../maze.py	/^class point:$/;"	kind:class	line:4
+positive	../Exam/27/3130.py	/^positive = []$/;"	kind:variable	line:2
+prev	../Sol/88.py	/^  prev = cur$/;"	kind:variable	line:40
+prev	../Sol/88.py	/^prev = int(input())$/;"	kind:variable	line:34
+prev	../Sol/89.py	/^  prev = x$/;"	kind:variable	line:48
+prev	../Sol/89.py	/^prev = int(input())$/;"	kind:variable	line:38
+prev_data	../Sol/10.py	/^    prev_data = res.get(mark)$/;"	kind:variable	line:42
+prev_data	../Sol/13.py	/^    prev_data = res.get(mark)$/;"	kind:variable	line:44
+price	../Sol/10.py	/^    price = int(price)$/;"	kind:variable	line:41
+price	../Sol/13.py	/^    price = int(price)$/;"	kind:variable	line:43
+print	../linked_list.py	/^    def print(self):$/;"	kind:member	line:40
+print	../matrix.py	/^    def print(self):$/;"	kind:member	line:36
+print	../matrix.py	/^    def print(self,hilight_length,color_start,color_end):$/;"	kind:member	line:72
+prod	../Sol/39.py	/^prod = 0$/;"	kind:variable	line:46
+psychodel.py	../psychodel.py	1;"	kind:file	line:1
+q	../27/5258.py	/^q = [0,0,0,0]$/;"	kind:variable	line:18
+q	../Exam/27/5258.py	/^q = [0,0,0,0]$/;"	kind:variable	line:16
+q	../Olimp/1.test.py	/^q = []$/;"	kind:variable	line:16
+q	../Olimp/6.py	/^q = int(input())$/;"	kind:variable	line:1
+queue	../Sol/111.py	/^queue = []$/;"	kind:variable	line:38
+queue	../Sol/81.py	/^queue = [int(input()) for i in range(D)]$/;"	kind:variable	line:39
+queue	../Sol/82.py	/^queue = []$/;"	kind:variable	line:40
+quick_sort	../sort/comparison.py	/^def quick_sort(a):$/;"	kind:function	line:79
+quick_sort	../sort/quick_sort.py	/^def quick_sort(a):$/;"	kind:function	line:3
+quick_sort	../time_complexity/sum.py	/^def quick_sort(a):$/;"	kind:function	line:41
+quick_sort.py	../sort/quick_sort.py	1;"	kind:file	line:1
+quick_sort_inplace	../sort/quick_sort.py	/^def quick_sort_inplace(arr,low,high): $/;"	kind:function	line:27
+quicksort	../Coding Interview/Array/7.py	/^def quicksort(a):$/;"	kind:function	line:11
+r	../27/7684.py	/^    r = -1$/;"	kind:variable	line:14
+r	../27/7684.py	/^r = max(even) + max(odd)$/;"	kind:variable	line:12
+r	../Sol/101.py	/^r = max(m[0][0] + m2, $/;"	kind:variable	line:59
+r	../Sol/115.py	/^  r = i % K$/;"	kind:variable	line:46
+r	../Sol/116.py	/^  r = i % K$/;"	kind:variable	line:48
+r	../Sol/85.py	/^r = [0]*12$/;"	kind:variable	line:34
+r	../Sol/96.py	/^r = [0]*3$/;"	kind:variable	line:42
+r	../time_complexity/sum.py	/^r = 0$/;"	kind:variable	line:88
+rWing	../Sol/26.py	/^rWing = lWing[::-1]        $/;"	kind:variable	line:40
+rWing	../Sol/27.py	/^rWing = lWing[::-1]        $/;"	kind:variable	line:45
+rWing	../Sol/28.py	/^rWing = lWing[::-1]        $/;"	kind:variable	line:50
+rain	../matrix.py	/^class rain:$/;"	kind:class	line:58
+randint	../sort/quick_sort.py	/^from random import randint$/;"	kind:namespace	line:1
+random	../25/1.py	/^import random$/;"	kind:namespace	line:1
+random	../25/2.py	/^import random$/;"	kind:namespace	line:1
+random	../25/3.py	/^import random$/;"	kind:namespace	line:1
+random	../Coding Interview/Array/1.py	/^import random$/;"	kind:namespace	line:2
+random	../Coding Interview/Array/2.py	/^import random$/;"	kind:namespace	line:3
+random	../Coding Interview/Array/3.py	/^import random$/;"	kind:namespace	line:3
+random	../Coding Interview/Array/4.py	/^import random$/;"	kind:namespace	line:3
+random	../Coding Interview/Array/5.py	/^import random$/;"	kind:namespace	line:3
+random	../Coding Interview/Array/6.py	/^import random$/;"	kind:namespace	line:3
+random	../Coding Interview/Array/7.py	/^import random$/;"	kind:namespace	line:3
+random	../Olimp/1.test.py	/^import random$/;"	kind:namespace	line:12
+random	../Olimp2/G copy.py	/^import random$/;"	kind:namespace	line:1
+random	../Sol/in/genc4-1.py	/^import random$/;"	kind:namespace	line:4
+random	../matrix.py	/^import random$/;"	kind:namespace	line:1
+random	../pi_monte_carlo.py	/^import random$/;"	kind:namespace	line:1
+random	../search/binary_interval_sesarch.py	/^import random$/;"	kind:namespace	line:1
+random	../sort/comparison.py	/^import random, time$/;"	kind:namespace	line:1
+random	../sort/insertion_sort.py	/^import random$/;"	kind:namespace	line:1
+random	../sort/merge_sort.py	/^import random$/;"	kind:namespace	line:1
+random	../sort/selection_sort.py	/^import random$/;"	kind:namespace	line:1
+random	../sort/timsort.py	/^import random$/;"	kind:namespace	line:1
+random	../time_complexity/sum.py	/^import random$/;"	kind:namespace	line:1
+real_pi	../pi_monte_carlo.py	/^real_pi = 3.1415926535897932384626433$/;"	kind:variable	line:3
+rem	../Sol/77.py	/^rem = [0]*12$/;"	kind:variable	line:34
+rem	../Sol/79.py	/^rem = [0]*12$/;"	kind:variable	line:39
+rem1	../Sol/114.py	/^    rem1 = x % 144$/;"	kind:variable	line:60
+rem2	../Sol/114.py	/^    rem2 = (144 - rem1) % 144   $/;"	kind:variable	line:61
+rem_div	../Sol/102.py	/^rem_div = [0] * 8$/;"	kind:variable	line:47
+res	../Sol/0-2.py	/^res = []$/;"	kind:variable	line:32
+res	../Sol/10.py	/^res = {}$/;"	kind:variable	line:37
+res	../Sol/11.py	/^res = {7:[], 8:[], 9:[], 10:[], 11:[]}$/;"	kind:variable	line:46
+res	../Sol/13.py	/^res = {}$/;"	kind:variable	line:39
+res	../Sol/14.py	/^        res = wing + res$/;"	kind:variable	line:37
+res	../Sol/14.py	/^    res = res + middle + res[::-1]$/;"	kind:variable	line:46
+res	../Sol/14.py	/^res = ""$/;"	kind:variable	line:32
+res	../Sol/15.py	/^res = []$/;"	kind:variable	line:40
+res	../Sol/20.py	/^res = []$/;"	kind:variable	line:48
+res	../Sol/21.py	/^res = {}$/;"	kind:variable	line:40
+res	../Sol/23.py	/^res = []$/;"	kind:variable	line:48
+res	../Sol/48.py	/^    res = int(res)$/;"	kind:variable	line:96
+res	../Sol/5.py	/^res = sorted(res.items(), key = lambda x: x[1], reverse = True)$/;"	kind:variable	line:41
+res	../Sol/5.py	/^res = {}$/;"	kind:variable	line:36
+res	../Sol/6.py	/^res = sorted(res.items(), key = lambda x: x[1], reverse = True)$/;"	kind:variable	line:44
+res	../Sol/6.py	/^res = {}$/;"	kind:variable	line:39
+res	../Sol/9.py	/^res = []$/;"	kind:variable	line:48
+resList	../Sol/48.py	/^resList = [Info("",0)]*3$/;"	kind:variable	line:72
+s	../24/1.py	/^    s = d1+d2$/;"	kind:variable	line:6
+s	../27/5258.py	/^    s = input()$/;"	kind:variable	line:21
+s	../27/7684.py	/^    s = int(input())$/;"	kind:variable	line:5
+s	../Olimp/2.py	/^            s = s[:i] + 'a' + s[(i+1):]$/;"	kind:variable	line:11
+s	../Olimp/2.py	/^            s = s[:i] + 'b' + s[(i+1):]$/;"	kind:variable	line:9
+s	../Olimp/2.py	/^s = input()$/;"	kind:variable	line:2
+s	../Olimp/3.py	/^s = input()$/;"	kind:variable	line:6
+s	../Olimp/5.py	/^s = input()$/;"	kind:variable	line:7
+s	../Olimp/7.py	/^s = input()$/;"	kind:variable	line:28
+s	../Olimp2/1.py	/^    s = input()$/;"	kind:variable	line:4
+s	../Olimp2/A.py	/^    s = input()$/;"	kind:variable	line:4
+s	../Olimp2/G.py	/^s = input().split()$/;"	kind:variable	line:2
+s	../Olimp2/test.py	/^    s = input()$/;"	kind:variable	line:4
+s	../Sol/100.py	/^s = 0$/;"	kind:variable	line:50
+s	../Sol/101.py	/^  s = a % 3$/;"	kind:variable	line:49
+s	../Sol/113.py	/^s = max( max1[0]*max59[1], max1[1]*max59[0] )$/;"	kind:variable	line:49
+s	../Sol/14.py	/^s = sorted(input().split('.')[0], reverse = True)$/;"	kind:variable	line:29
+s	../Sol/17.py	/^s = "".join(msg.split("\\n"))$/;"	kind:variable	line:35
+s	../Sol/2.py	/^s = sys.stdin.read().split('.')[0].upper()$/;"	kind:variable	line:29
+s	../Sol/22.py	/^        s = s[0:i] + word + s[j:]$/;"	kind:variable	line:55
+s	../Sol/22.py	/^s = input().split('#')[0]$/;"	kind:variable	line:46
+s	../Sol/24.py	/^s = input()$/;"	kind:variable	line:28
+s	../Sol/25.py	/^s = input().split('.')[0]$/;"	kind:variable	line:25
+s	../Sol/26.py	/^s = input().split('0')[0]$/;"	kind:variable	line:28
+s	../Sol/27.py	/^s = input().split('.')[0].upper()$/;"	kind:variable	line:30
+s	../Sol/27.py	/^s = lWing + rWing$/;"	kind:variable	line:50
+s	../Sol/28.py	/^s = input().split('.')[0]$/;"	kind:variable	line:34
+s	../Sol/28.py	/^s = lWing + rWing$/;"	kind:variable	line:55
+s	../Sol/29.py	/^s = input().split('.')[0]$/;"	kind:variable	line:24
+s	../Sol/3.py	/^s = [x for x in s if x in string.ascii_lowercase]$/;"	kind:variable	line:31
+s	../Sol/3.py	/^s = sys.stdin.read().split('.')[0]$/;"	kind:variable	line:30
+s	../Sol/34.py	/^    s = s[k:]$/;"	kind:variable	line:41
+s	../Sol/34.py	/^s = input() + '+'$/;"	kind:variable	line:29
+s	../Sol/41.py	/^    s = input()$/;"	kind:variable	line:51
+s	../Sol/74-2.py	/^s = 0 # сумма выбранных чисел$/;"	kind:variable	line:33
+s	../Sol/76.py	/^  s = input()$/;"	kind:variable	line:42
+s	../Sol/94.py	/^      s = summ + max_otr1$/;"	kind:variable	line:68
+s	../Sol/94.py	/^    s = max_otr1 + max_otr2$/;"	kind:variable	line:72
+s	../Sol/94.py	/^    s = max_otr_ch$/;"	kind:variable	line:74
+s	../Sol/94.py	/^    s = summ - min_pol_nch$/;"	kind:variable	line:65
+s	../Sol/94.py	/^    s = summ$/;"	kind:variable	line:63
+s	../Sol/94.py	/^s = 0               # Искомая сумма$/;"	kind:variable	line:60
+s	../Sol/97.py	/^s = [[0, 0, 0], [0, 0, 0]]$/;"	kind:variable	line:41
+s	../Sol/99.py	/^s = 0$/;"	kind:variable	line:45
+s	../time_complexity/sum.py	/^s = int(input())$/;"	kind:variable	line:78
+s1	../Olimp/4.py	/^s1 = input()$/;"	kind:variable	line:8
+s1	../Olimp/4.py	/^s1 = intersection(x1,x2,x3,x4)*intersection(y1,y2,y3,y4)$/;"	kind:variable	line:28
+s1	../Sol/39.py	/^s1 = input().upper()$/;"	kind:variable	line:30
+s2	../Olimp/4.py	/^s2 = input()$/;"	kind:variable	line:9
+s2	../Olimp/4.py	/^s2 = intersection(x1,x2,x5,x6)*intersection(y1,y2,y5,y6)$/;"	kind:variable	line:29
+s2	../Sol/39.py	/^s2 = input().upper()$/;"	kind:variable	line:31
+s3	../Olimp/4.py	/^s3 = (x2-x1)*(y2-y1)$/;"	kind:variable	line:30
+s3	../Olimp/4.py	/^s3 = input()$/;"	kind:variable	line:10
+save_stdin	../Sol/0-1.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:26
+save_stdin	../Sol/0-2.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:28
+save_stdin	../Sol/1.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:27
+save_stdin	../Sol/10.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:33
+save_stdin	../Sol/100.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:34
+save_stdin	../Sol/101.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:40
+save_stdin	../Sol/102.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:42
+save_stdin	../Sol/103.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:36
+save_stdin	../Sol/104.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:36
+save_stdin	../Sol/105.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/106.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:34
+save_stdin	../Sol/107.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:36
+save_stdin	../Sol/108.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:38
+save_stdin	../Sol/109.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/11.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:41
+save_stdin	../Sol/110.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:36
+save_stdin	../Sol/111.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:32
+save_stdin	../Sol/113.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/114.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:51
+save_stdin	../Sol/115.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/116.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/12.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:34
+save_stdin	../Sol/13.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/14.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:26
+save_stdin	../Sol/15.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/16.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:36
+save_stdin	../Sol/17.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:30
+save_stdin	../Sol/18.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:38
+save_stdin	../Sol/19.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:37
+save_stdin	../Sol/2.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:25
+save_stdin	../Sol/20.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:44
+save_stdin	../Sol/21.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:36
+save_stdin	../Sol/22.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:28
+save_stdin	../Sol/23.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:44
+save_stdin	../Sol/24.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:25
+save_stdin	../Sol/25.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:22
+save_stdin	../Sol/26.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:25
+save_stdin	../Sol/27.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:26
+save_stdin	../Sol/28.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:30
+save_stdin	../Sol/29.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:21
+save_stdin	../Sol/3.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:26
+save_stdin	../Sol/30.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:33
+save_stdin	../Sol/31.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:31
+save_stdin	../Sol/32.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:41
+save_stdin	../Sol/33.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:44
+save_stdin	../Sol/34.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:26
+save_stdin	../Sol/35.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:39
+save_stdin	../Sol/36.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:36
+save_stdin	../Sol/37.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:48
+save_stdin	../Sol/38.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:28
+save_stdin	../Sol/39.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:27
+save_stdin	../Sol/4.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:38
+save_stdin	../Sol/40.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:43
+save_stdin	../Sol/41.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:45
+save_stdin	../Sol/42.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:39
+save_stdin	../Sol/43.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:38
+save_stdin	../Sol/44.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:43
+save_stdin	../Sol/45.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:45
+save_stdin	../Sol/46.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/47.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:42
+save_stdin	../Sol/48.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:64
+save_stdin	../Sol/49.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:48
+save_stdin	../Sol/5.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:32
+save_stdin	../Sol/50.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:45
+save_stdin	../Sol/51.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:39
+save_stdin	../Sol/52.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:54
+save_stdin	../Sol/53.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:43
+save_stdin	../Sol/54.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:40
+save_stdin	../Sol/55.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:39
+save_stdin	../Sol/56.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:48
+save_stdin	../Sol/57.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:47
+save_stdin	../Sol/58.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:40
+save_stdin	../Sol/59.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:37
+save_stdin	../Sol/6.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/60.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:47
+save_stdin	../Sol/61.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:43
+save_stdin	../Sol/63.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:47
+save_stdin	../Sol/64.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/65.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:38
+save_stdin	../Sol/66.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/67.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/68.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:31
+save_stdin	../Sol/69.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/69a.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:33
+save_stdin	../Sol/7.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:36
+save_stdin	../Sol/70.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:29
+save_stdin	../Sol/71.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:42
+save_stdin	../Sol/72.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:41
+save_stdin	../Sol/73.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:34
+save_stdin	../Sol/74-2.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:30
+save_stdin	../Sol/74.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:30
+save_stdin	../Sol/75.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:31
+save_stdin	../Sol/76.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:36
+save_stdin	../Sol/77.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:31
+save_stdin	../Sol/78.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:33
+save_stdin	../Sol/79.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/8.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:28
+save_stdin	../Sol/80.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:30
+save_stdin	../Sol/81.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:34
+save_stdin	../Sol/82.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/83.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:31
+save_stdin	../Sol/84.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:34
+save_stdin	../Sol/85.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:31
+save_stdin	../Sol/86.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:28
+save_stdin	../Sol/87.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:30
+save_stdin	../Sol/88.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:30
+save_stdin	../Sol/89.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:34
+save_stdin	../Sol/9.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:44
+save_stdin	../Sol/90.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:27
+save_stdin	../Sol/91.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/92.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:48
+save_stdin	../Sol/93.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:27
+save_stdin	../Sol/94.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:32
+save_stdin	../Sol/95.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:35
+save_stdin	../Sol/96.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:38
+save_stdin	../Sol/97.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:33
+save_stdin	../Sol/98.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:32
+save_stdin	../Sol/99.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:34
+save_stdin	../Sol/demo-2014.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:48
+save_stdin	../Sol/demo-2014a.py	/^save_stdin = sys.stdin$/;"	kind:variable	line:48
+scale	../flag.py	/^    def scale(self,factor):$/;"	kind:member	line:302
+schCount	../Sol/0-1.py	/^schCount = {}$/;"	kind:variable	line:30
+schMin	../Sol/0-1.py	/^schMin = [x[0] for x in list(schCount.items()) if x[1] == minCount]$/;"	kind:variable	line:35
+selection_sort	../sort/comparison.py	/^def selection_sort(b):$/;"	kind:function	line:65
+selection_sort	../sort/selection_sort.py	/^def selection_sort(a):$/;"	kind:function	line:3
+selection_sort.py	../sort/selection_sort.py	1;"	kind:file	line:1
+sheet1	../excel/table.py	/^sheet1 = wb.add_sheet('Sheet 1') $/;"	kind:variable	line:8
+sheet1	../time_complexity/sum.py	/^sheet1 = wb.add_sheet('Sheet 1')$/;"	kind:variable	line:84
+shots	../Olimp/3.py	/^shots = 0$/;"	kind:variable	line:9
+sign	../Sol/100.py	/^def sign( n ):$/;"	kind:function	line:37
+sign	../Sol/97.py	/^def sign( n ):$/;"	kind:function	line:36
+sign	../flag.py	/^def sign(n):$/;"	kind:function	line:9
+sk	../Sol/111.py	/^sk = 112 # сумма д\/б кратна sk$/;"	kind:variable	line:35
+sm	../Olimp2/G.py	/^sm = 0$/;"	kind:variable	line:4
+small	../Sol/50.py	/^small = []$/;"	kind:variable	line:50
+snake	../psychodel.py	/^def snake(a, sym):$/;"	kind:function	line:5
+start	../book/movie_schedule.py	/^    start = int(inp.split(' ')[0])$/;"	kind:variable	line:19
+start	../flag.py	/^    def start(self,fps,amp):$/;"	kind:member	line:323
+start	../matrix.py	/^    def start(self,fps,gap,hilight_length,color_start,color_end):$/;"	kind:member	line:86
+string	../Sol/17.py	/^import string$/;"	kind:namespace	line:33
+string	../Sol/2.py	/^import string$/;"	kind:namespace	line:28
+string	../Sol/22.py	/^import string$/;"	kind:namespace	line:31
+string	../Sol/27.py	/^import string$/;"	kind:namespace	line:29
+string	../Sol/28.py	/^import string$/;"	kind:namespace	line:33
+string	../Sol/29.py	/^import string$/;"	kind:namespace	line:26
+string	../Sol/3.py	/^import string$/;"	kind:namespace	line:29
+string	../Sol/39.py	/^import string$/;"	kind:namespace	line:33
+string	../Sol/41.py	/^import string$/;"	kind:namespace	line:48
+string	../matrix.py	/^import string$/;"	kind:namespace	line:2
+stupid_function	../time_complexity/sum.py	/^def stupid_function(a):$/;"	kind:function	line:38
+sum	../Exam/TODO_13423.py	/^def sum(a):$/;"	kind:function	line:1
+sum	../Sol/65.py	/^        sum = 0  $/;"	kind:variable	line:53
+sum	../Sol/65.py	/^sum = 0  $/;"	kind:variable	line:43
+sum.py	../time_complexity/sum.py	1;"	kind:file	line:1
+sum_digits	../Olimp2/D.py	/^def sum_digits(n):$/;"	kind:function	line:1
+summ	../Sol/94.py	/^summ = 0          # Cумма положительных значений$/;"	kind:variable	line:43
+summa	../Sol/66.py	/^summa = 0$/;"	kind:variable	line:41
+summa	../Sol/86.py	/^      summa = A[i]+A[j]+A[k]$/;"	kind:variable	line:40
+sys	../Sol/0-1.py	/^import sys, codecs$/;"	kind:namespace	line:25
+sys	../Sol/0-2.py	/^import sys, codecs$/;"	kind:namespace	line:27
+sys	../Sol/1.py	/^import sys$/;"	kind:namespace	line:26
+sys	../Sol/10.py	/^import sys, codecs$/;"	kind:namespace	line:32
+sys	../Sol/100.py	/^import sys$/;"	kind:namespace	line:33
+sys	../Sol/101.py	/^import sys$/;"	kind:namespace	line:39
+sys	../Sol/102.py	/^import sys$/;"	kind:namespace	line:41
+sys	../Sol/103.py	/^import sys$/;"	kind:namespace	line:35
+sys	../Sol/104.py	/^import sys$/;"	kind:namespace	line:35
+sys	../Sol/105.py	/^import sys$/;"	kind:namespace	line:34
+sys	../Sol/106.py	/^import sys$/;"	kind:namespace	line:33
+sys	../Sol/107.py	/^import sys$/;"	kind:namespace	line:35
+sys	../Sol/108.py	/^import sys$/;"	kind:namespace	line:37
+sys	../Sol/109.py	/^import sys$/;"	kind:namespace	line:34
+sys	../Sol/11.py	/^import sys, codecs$/;"	kind:namespace	line:40
+sys	../Sol/110.py	/^import sys$/;"	kind:namespace	line:35
+sys	../Sol/111.py	/^import sys$/;"	kind:namespace	line:31
+sys	../Sol/113.py	/^import sys$/;"	kind:namespace	line:34
+sys	../Sol/114.py	/^import sys$/;"	kind:namespace	line:50
+sys	../Sol/115.py	/^import sys$/;"	kind:namespace	line:34
+sys	../Sol/116.py	/^import sys$/;"	kind:namespace	line:34
+sys	../Sol/12.py	/^import sys, codecs$/;"	kind:namespace	line:33
+sys	../Sol/13.py	/^import sys, codecs$/;"	kind:namespace	line:34
+sys	../Sol/14.py	/^import sys$/;"	kind:namespace	line:25
+sys	../Sol/15.py	/^import sys, codecs$/;"	kind:namespace	line:34
+sys	../Sol/16.py	/^import sys, codecs$/;"	kind:namespace	line:35
+sys	../Sol/17.py	/^import sys$/;"	kind:namespace	line:29
+sys	../Sol/18.py	/^import sys$/;"	kind:namespace	line:37
+sys	../Sol/19.py	/^import sys, codecs$/;"	kind:namespace	line:36
+sys	../Sol/2.py	/^import sys$/;"	kind:namespace	line:24
+sys	../Sol/20.py	/^import sys, codecs$/;"	kind:namespace	line:43
+sys	../Sol/21.py	/^import sys, codecs$/;"	kind:namespace	line:35
+sys	../Sol/22.py	/^import sys$/;"	kind:namespace	line:27
+sys	../Sol/23.py	/^import sys, codecs$/;"	kind:namespace	line:43
+sys	../Sol/24.py	/^import sys$/;"	kind:namespace	line:24
+sys	../Sol/25.py	/^import sys$/;"	kind:namespace	line:21
+sys	../Sol/26.py	/^import sys$/;"	kind:namespace	line:24
+sys	../Sol/27.py	/^import sys$/;"	kind:namespace	line:25
+sys	../Sol/28.py	/^import sys$/;"	kind:namespace	line:29
+sys	../Sol/29.py	/^import sys$/;"	kind:namespace	line:20
+sys	../Sol/3.py	/^import sys$/;"	kind:namespace	line:25
+sys	../Sol/30.py	/^import sys$/;"	kind:namespace	line:32
+sys	../Sol/31.py	/^import sys, codecs$/;"	kind:namespace	line:30
+sys	../Sol/32.py	/^import sys, codecs$/;"	kind:namespace	line:40
+sys	../Sol/33.py	/^import sys, codecs$/;"	kind:namespace	line:43
+sys	../Sol/34.py	/^import sys$/;"	kind:namespace	line:25
+sys	../Sol/35.py	/^import sys$/;"	kind:namespace	line:38
+sys	../Sol/36.py	/^import sys, codecs$/;"	kind:namespace	line:35
+sys	../Sol/37.py	/^import sys$/;"	kind:namespace	line:47
+sys	../Sol/38.py	/^import sys$/;"	kind:namespace	line:27
+sys	../Sol/39.py	/^import sys$/;"	kind:namespace	line:26
+sys	../Sol/4.py	/^import sys, codecs$/;"	kind:namespace	line:37
+sys	../Sol/40.py	/^import sys, codecs$/;"	kind:namespace	line:42
+sys	../Sol/41.py	/^import sys$/;"	kind:namespace	line:44
+sys	../Sol/42.py	/^import sys$/;"	kind:namespace	line:38
+sys	../Sol/43.py	/^import sys$/;"	kind:namespace	line:37
+sys	../Sol/44.py	/^import sys$/;"	kind:namespace	line:42
+sys	../Sol/45.py	/^import sys, codecs$/;"	kind:namespace	line:44
+sys	../Sol/46.py	/^import sys$/;"	kind:namespace	line:34
+sys	../Sol/47.py	/^import sys$/;"	kind:namespace	line:41
+sys	../Sol/48.py	/^import sys, copy$/;"	kind:namespace	line:63
+sys	../Sol/49.py	/^import sys$/;"	kind:namespace	line:47
+sys	../Sol/5.py	/^import sys, codecs$/;"	kind:namespace	line:31
+sys	../Sol/50.py	/^import sys$/;"	kind:namespace	line:44
+sys	../Sol/51.py	/^import sys$/;"	kind:namespace	line:38
+sys	../Sol/52.py	/^import sys$/;"	kind:namespace	line:53
+sys	../Sol/53.py	/^import sys$/;"	kind:namespace	line:42
+sys	../Sol/54.py	/^import sys$/;"	kind:namespace	line:39
+sys	../Sol/55.py	/^import sys$/;"	kind:namespace	line:38
+sys	../Sol/56.py	/^import sys$/;"	kind:namespace	line:47
+sys	../Sol/57.py	/^import sys$/;"	kind:namespace	line:46
+sys	../Sol/58.py	/^import sys$/;"	kind:namespace	line:39
+sys	../Sol/59.py	/^import sys$/;"	kind:namespace	line:36
+sys	../Sol/6.py	/^import sys, codecs$/;"	kind:namespace	line:34
+sys	../Sol/60.py	/^import sys$/;"	kind:namespace	line:46
+sys	../Sol/61.py	/^import sys$/;"	kind:namespace	line:42
+sys	../Sol/63.py	/^import sys$/;"	kind:namespace	line:46
+sys	../Sol/64.py	/^import sys$/;"	kind:namespace	line:34
+sys	../Sol/65.py	/^import sys$/;"	kind:namespace	line:37
+sys	../Sol/66.py	/^import sys$/;"	kind:namespace	line:34
+sys	../Sol/67.py	/^import sys$/;"	kind:namespace	line:34
+sys	../Sol/68.py	/^import sys$/;"	kind:namespace	line:30
+sys	../Sol/69.py	/^import sys$/;"	kind:namespace	line:34
+sys	../Sol/69a.py	/^import sys$/;"	kind:namespace	line:32
+sys	../Sol/7.py	/^import sys, codecs$/;"	kind:namespace	line:35
+sys	../Sol/70.py	/^import sys$/;"	kind:namespace	line:28
+sys	../Sol/71.py	/^import sys$/;"	kind:namespace	line:41
+sys	../Sol/72.py	/^import sys$/;"	kind:namespace	line:40
+sys	../Sol/73.py	/^import sys$/;"	kind:namespace	line:33
+sys	../Sol/74-2.py	/^import sys$/;"	kind:namespace	line:29
+sys	../Sol/74.py	/^import sys$/;"	kind:namespace	line:29
+sys	../Sol/75.py	/^import sys$/;"	kind:namespace	line:30
+sys	../Sol/76.py	/^import sys$/;"	kind:namespace	line:35
+sys	../Sol/77.py	/^import sys$/;"	kind:namespace	line:30
+sys	../Sol/78.py	/^import sys$/;"	kind:namespace	line:32
+sys	../Sol/79.py	/^import sys$/;"	kind:namespace	line:34
+sys	../Sol/8.py	/^import sys, codecs$/;"	kind:namespace	line:27
+sys	../Sol/80.py	/^import sys$/;"	kind:namespace	line:29
+sys	../Sol/81.py	/^import sys$/;"	kind:namespace	line:33
+sys	../Sol/82.py	/^import sys$/;"	kind:namespace	line:34
+sys	../Sol/83.py	/^import sys$/;"	kind:namespace	line:30
+sys	../Sol/84.py	/^import sys$/;"	kind:namespace	line:33
+sys	../Sol/85.py	/^import sys$/;"	kind:namespace	line:30
+sys	../Sol/86.py	/^import sys$/;"	kind:namespace	line:27
+sys	../Sol/87.py	/^import sys$/;"	kind:namespace	line:29
+sys	../Sol/88.py	/^import sys$/;"	kind:namespace	line:29
+sys	../Sol/89.py	/^import sys$/;"	kind:namespace	line:33
+sys	../Sol/9.py	/^import sys, codecs$/;"	kind:namespace	line:43
+sys	../Sol/90.py	/^import sys$/;"	kind:namespace	line:26
+sys	../Sol/91.py	/^import sys$/;"	kind:namespace	line:34
+sys	../Sol/92.py	/^import sys$/;"	kind:namespace	line:47
+sys	../Sol/93.py	/^import sys$/;"	kind:namespace	line:26
+sys	../Sol/94.py	/^import sys$/;"	kind:namespace	line:31
+sys	../Sol/95.py	/^import sys$/;"	kind:namespace	line:34
+sys	../Sol/96.py	/^import sys$/;"	kind:namespace	line:37
+sys	../Sol/97.py	/^import sys$/;"	kind:namespace	line:32
+sys	../Sol/98.py	/^import sys$/;"	kind:namespace	line:31
+sys	../Sol/99.py	/^import sys$/;"	kind:namespace	line:33
+sys	../Sol/demo-2014.py	/^import sys$/;"	kind:namespace	line:47
+sys	../Sol/demo-2014a.py	/^import sys$/;"	kind:namespace	line:47
+t	../27/1.py	/^        t = abs(mx[i]-mn[i])$/;"	kind:variable	line:18
+t	../27/1.py	/^    t = int(input())$/;"	kind:variable	line:9
+t	../27/1.py	/^t = abs(mx[0]-mn[0])$/;"	kind:variable	line:14
+t	../27/116.py	/^        t = ans[i][0]$/;"	kind:variable	line:27
+t	../27/116.py	/^t = ans[0][0]$/;"	kind:variable	line:24
+t	../27/15937.py	/^    t = int(input())$/;"	kind:variable	line:5
+t	../27/6202.py	/^    t = int(input())$/;"	kind:variable	line:11
+t	../27/6202.py	/^t = int(input())$/;"	kind:variable	line:3
+t	../Coding Interview/Array/2.py	/^    t = a[index1]$/;"	kind:variable	line:11
+t	../Exam/27/114.py	/^    t = int(input())$/;"	kind:variable	line:5
+t	../Exam/27/7321.py	/^t = int(input())$/;"	kind:variable	line:2
+t	../Olimp/1.test.py	/^t = []$/;"	kind:variable	line:15
+t	../Olimp2/1.py	/^        t = i$/;"	kind:variable	line:13
+t	../Olimp2/1.py	/^t = -1$/;"	kind:variable	line:10
+t	../Olimp2/A.py	/^        t = i$/;"	kind:variable	line:16
+t	../Olimp2/A.py	/^t = -1$/;"	kind:variable	line:13
+t	../Sol/101.py	/^  t = i % 3$/;"	kind:variable	line:50
+t	../Sol/53.py	/^t = int(input())$/;"	kind:variable	line:73
+t	../Sol/90.py	/^  t = min(dp_min*x, min(dp_max*x, x))$/;"	kind:variable	line:34
+t	../Sol/in/genc4-1.py	/^        t = random.gauss(tAvg[m], 5)$/;"	kind:variable	line:10
+t	../search/binary_interval_sesarch.py	/^t = binary_interval_search(a,0)$/;"	kind:variable	line:31
+t	../time_complexity/sum.py	/^t = int(input())$/;"	kind:variable	line:76
+t0	../sort/insertion_sort.py	/^    t0 = time.time()$/;"	kind:variable	line:48
+t0	../sort/timsort.py	/^    t0 = time.time()$/;"	kind:variable	line:69
+t0	../time_complexity/sum.py	/^        t0 = time.time_ns()$/;"	kind:variable	line:98
+t1	../sort/insertion_sort.py	/^    t1 = time.time()$/;"	kind:variable	line:50
+t1	../sort/timsort.py	/^    t1 = time.time()$/;"	kind:variable	line:71
+t1	../time_complexity/sum.py	/^        t1 = time.time_ns()$/;"	kind:variable	line:100
+tAvg	../Sol/in/genc4-1.py	/^tAvg =  [-7.8, -7.8, -3.9, 3.1, 9.8, 15.0, 17.8, 16.0, 10.9, 4, 9, -0.3, -5.0, 4.4]$/;"	kind:variable	line:6
+table.py	../excel/table.py	1;"	kind:file	line:1
+take	../maze.py	/^    def take(self, depth):$/;"	kind:member	line:10
+temp	../Sol/92.py	/^    temp = int(input())$/;"	kind:variable	line:61
+test.py	../Olimp/test.py	1;"	kind:file	line:1
+test.py	../Olimp2/test.py	1;"	kind:file	line:1
+test.py	../test.py	1;"	kind:file	line:1
+time	../flag.py	/^import time$/;"	kind:namespace	line:2
+time	../flag.py	/^import time$/;"	kind:namespace	line:4
+time	../matrix.py	/^import time$/;"	kind:namespace	line:3
+time	../psychodel.py	/^import time$/;"	kind:namespace	line:3
+time	../sort/comparison.py	/^import random, time$/;"	kind:namespace	line:1
+time	../sort/insertion_sort.py	/^import time$/;"	kind:namespace	line:2
+time	../sort/timsort.py	/^import time$/;"	kind:namespace	line:2
+time	../time_complexity/sum.py	/^import time$/;"	kind:namespace	line:2
+time2Int	../Sol/16.py	/^def time2Int ( t ):$/;"	kind:function	line:39
+timsort	../sort/comparison.py	/^def timsort(b, run=5):$/;"	kind:function	line:92
+timsort	../sort/timsort.py	/^def timsort(b, run=5):$/;"	kind:function	line:55
+timsort.py	../sort/timsort.py	1;"	kind:file	line:1
+title	../Sol/36.py	/^    title = input().rstrip()$/;"	kind:variable	line:42
+total	../Sol/11.py	/^    total = total + res[i]$/;"	kind:variable	line:54
+total	../Sol/11.py	/^total = []$/;"	kind:variable	line:52
+total	../Sol/21.py	/^total = []$/;"	kind:variable	line:41
+total	../Sol/27.py	/^total = sum([x[1] for x in cnt.items()])            $/;"	kind:variable	line:36
+total	../Sol/28.py	/^total = sum([x[1] for x in cnt.items()])            $/;"	kind:variable	line:41
+total	../Sol/83.py	/^total = N*(N-1) \/\/ 2$/;"	kind:variable	line:44
+update	../matrix.py	/^    def update(self):$/;"	kind:member	line:48
+update	../matrix.py	/^    def update(self):$/;"	kind:member	line:67
+v	../Sol/42.py	/^    v = int(input())$/;"	kind:variable	line:48
+v	../Sol/43.py	/^    v = int(input())$/;"	kind:variable	line:45
+v1	../Sol/42.py	/^v1 = int(input())$/;"	kind:variable	line:43
+v2	../Sol/42.py	/^v2 = int(input())$/;"	kind:variable	line:44
+val	../Sol/40.py	/^            val = 0$/;"	kind:variable	line:57
+val	../Sol/40.py	/^            val = val + numVal[w]$/;"	kind:variable	line:60
+val	../Sol/40.py	/^    val = 0$/;"	kind:variable	line:54
+wave	../maze.py	/^class wave:$/;"	kind:class	line:14
+wb	../excel/table.py	/^wb = Workbook() $/;"	kind:variable	line:5
+wb	../time_complexity/sum.py	/^wb = Workbook()$/;"	kind:variable	line:83
+wing	../Sol/14.py	/^        wing = s[0]*(n \/\/ 2)$/;"	kind:variable	line:36
+word	../Sol/22.py	/^        word = encode(s[i:j])$/;"	kind:variable	line:54
+words	../Sol/17.py	/^words = s.split()$/;"	kind:variable	line:36
+words	../Sol/41.py	/^    words = s.split()$/;"	kind:variable	line:53
+x	../25/1.py	/^x = int(input())$/;"	kind:variable	line:8
+x	../27/112.py	/^    x = int(input())$/;"	kind:variable	line:14
+x	../Exam/27/5258.py	/^    x = int(inp.split(' ')[0])$/;"	kind:variable	line:20
+x	../Olimp/3.py	/^x = 0$/;"	kind:variable	line:8
+x	../Sol/102.py	/^     x = int(input())$/;"	kind:variable	line:62
+x	../Sol/107.py	/^  x = int(input())$/;"	kind:variable	line:43
+x	../Sol/108.py	/^  x = int(input())$/;"	kind:variable	line:48
+x	../Sol/109.py	/^  x = int(input())$/;"	kind:variable	line:50
+x	../Sol/110.py	/^  x = int(input())$/;"	kind:variable	line:43
+x	../Sol/112.py	/^  x = int(input())$/;"	kind:variable	line:47
+x	../Sol/113.py	/^  x = int(input())$/;"	kind:variable	line:43
+x	../Sol/114.py	/^    x = int(input())$/;"	kind:variable	line:59
+x	../Sol/115.py	/^  x = int(input())$/;"	kind:variable	line:45
+x	../Sol/116.py	/^  x = int(input())$/;"	kind:variable	line:41
+x	../Sol/116.py	/^  x = int(input())$/;"	kind:variable	line:47
+x	../Sol/37.py	/^    x = int(input())$/;"	kind:variable	line:54
+x	../Sol/38.py	/^    x = int(input())$/;"	kind:variable	line:36
+x	../Sol/50.py	/^    x = float(input())$/;"	kind:variable	line:52
+x	../Sol/51.py	/^  x = int(input())$/;"	kind:variable	line:46
+x	../Sol/57.py	/^    x = int(input())$/;"	kind:variable	line:53
+x	../Sol/61.py	/^    x = int(input())$/;"	kind:variable	line:49
+x	../Sol/66.py	/^    x = int(input())$/;"	kind:variable	line:43
+x	../Sol/67.py	/^  x = int(input())$/;"	kind:variable	line:48
+x	../Sol/69.py	/^  x = int(input())$/;"	kind:variable	line:49
+x	../Sol/70.py	/^  x = int(input())$/;"	kind:variable	line:36
+x	../Sol/71.py	/^  x = int(input())$/;"	kind:variable	line:48
+x	../Sol/74.py	/^x = [0]*4            # две таблицы размером 4х1$/;"	kind:variable	line:34
+x	../Sol/75.py	/^  x = int(input())$/;"	kind:variable	line:37
+x	../Sol/77.py	/^  x = int(input())$/;"	kind:variable	line:37
+x	../Sol/78.py	/^  x = int(input())$/;"	kind:variable	line:48
+x	../Sol/79.py	/^  x = int(input())$/;"	kind:variable	line:41
+x	../Sol/80.py	/^  x = int(input())$/;"	kind:variable	line:36
+x	../Sol/81.py	/^  x = int(input())$/;"	kind:variable	line:53
+x	../Sol/82.py	/^  x = int(input())$/;"	kind:variable	line:43
+x	../Sol/82.py	/^  x = int(input())$/;"	kind:variable	line:66
+x	../Sol/83.py	/^  x = int(input())$/;"	kind:variable	line:37
+x	../Sol/84.py	/^  x = int(input())$/;"	kind:variable	line:40
+x	../Sol/85.py	/^  x = int(input())$/;"	kind:variable	line:37
+x	../Sol/87.py	/^  x = int(input())$/;"	kind:variable	line:36
+x	../Sol/89.py	/^  x = int(input())$/;"	kind:variable	line:41
+x	../Sol/90.py	/^  x = int(input())$/;"	kind:variable	line:33
+x	../Sol/demo-2014.py	/^    x = int(input())$/;"	kind:variable	line:54
+x	../pi_monte_carlo.py	/^    x = random.random()$/;"	kind:variable	line:9
+x1	../Olimp/4.py	/^x1 = int(list(s1.split(' '))[0])$/;"	kind:variable	line:12
+x2	../Olimp/4.py	/^x2 = int(list(s1.split(' '))[2])$/;"	kind:variable	line:14
+x3	../Olimp/4.py	/^x3 = int(list(s2.split(' '))[0])$/;"	kind:variable	line:17
+x4	../Olimp/4.py	/^x4 = int(list(s2.split(' '))[2])$/;"	kind:variable	line:19
+x5	../Olimp/4.py	/^x5 = int(list(s3.split(' '))[0])$/;"	kind:variable	line:22
+x6	../Olimp/4.py	/^x6 = int(list(s3.split(' '))[2])$/;"	kind:variable	line:24
+xMax	../Sol/46.py	/^        xMax = x$/;"	kind:variable	line:45
+xMin	../Sol/46.py	/^        xMin = x$/;"	kind:variable	line:47
+xMin	../Sol/46.py	/^xMin = None $/;"	kind:variable	line:39
+xMin1	../Sol/47.py	/^                xMin1 = x$/;"	kind:variable	line:53
+xMin2	../Sol/47.py	/^                xMin2 = x$/;"	kind:variable	line:60
+xPrev	../Sol/38.py	/^    xPrev = x$/;"	kind:variable	line:45
+xPrev	../Sol/38.py	/^xPrev = 1001 $/;"	kind:variable	line:34
+xlwt	../excel/table.py	/^import xlwt $/;"	kind:namespace	line:1
+xlwt	../time_complexity/sum.py	/^import xlwt$/;"	kind:namespace	line:80
+y	../Exam/27/5258.py	/^    y = int(inp.split(' ')[1])$/;"	kind:variable	line:21
+y	../Olimp/5.py	/^y = 0$/;"	kind:variable	line:20
+y	../Sol/74.py	/^y = [0]*4$/;"	kind:variable	line:35
+y	../Sol/78.py	/^  y = a.get()       #удаление из очереди$/;"	kind:variable	line:47
+y	../pi_monte_carlo.py	/^    y = random.random()$/;"	kind:variable	line:10
+y1	../Olimp/4.py	/^y1 = int(list(s1.split(' '))[1])$/;"	kind:variable	line:13
+y2	../Olimp/4.py	/^y2 = int(list(s1.split(' '))[3])$/;"	kind:variable	line:15
+y3	../Olimp/4.py	/^y3 = int(list(s2.split(' '))[1])$/;"	kind:variable	line:18
+y4	../Olimp/4.py	/^y4 = int(list(s2.split(' '))[3])$/;"	kind:variable	line:20
+y5	../Olimp/4.py	/^y5 = int(list(s3.split(' '))[1])$/;"	kind:variable	line:23
+y6	../Olimp/4.py	/^y6 = int(list(s3.split(' '))[3])$/;"	kind:variable	line:25
+yMax	../Sol/46.py	/^        yMax = max( abs(y), yMax )$/;"	kind:variable	line:49
+yMax1	../Sol/47.py	/^            yMax1 = max( abs(y), yMax1 )$/;"	kind:variable	line:56
+yMax2	../Sol/47.py	/^            yMax2 = max( abs(y), yMax2 )$/;"	kind:variable	line:63
+z	../Olimp/5.py	/^z = d[0]$/;"	kind:variable	line:19

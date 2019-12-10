@@ -41,10 +41,10 @@ def stupid_function(a):
 def quick_sort(a):
     if len(a) < 1:
         return a
-    smaller, equal, larger = [],[],[]       # 1
-    pivot = a[random.randint(0,len(a)-1)]          # 1
+    smaller, equal, larger = [],[],[]
+    pivot = a[random.randint(0,len(a)-1)]
 
-    for x in a:                             # n
+    for x in a:
         if x<pivot:     smaller.append(x)
         elif x==pivot:  equal.append(x)
         else:           larger.append(x)

@@ -1,5 +1,2 @@
-import time
-
-for i in range(1000):
-    print('{}'.format(i), end='\r')
-    time.sleep(.5)
+a = 5 + (3>1)*3
+print(a)

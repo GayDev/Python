@@ -9,6 +9,7 @@ for i in range(k):
 
 for i in range(n):
     a.append(int(input()))
+
 for i in range(0,k):
     mx = a[i]
     mn = a[i]

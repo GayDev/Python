@@ -52,8 +52,7 @@ for i in range(5, n):
     ma[a[0]%3] = a[0]
   if a[0] < mi[a[0]%3]: 
     mi[a[0]%3] = a[0]
-  if (ma[a[5]%3] - a[5]) > max_sub and \
-     ma[a[5]%3] != 0: 
+  if (ma[a[5]%3] - a[5]) > max_sub and ma[a[5]%3] != 0: 
     max_sub = ma[a[5]%3] - a[5]
   if (a[5] - mi[a[5]%3]) > max_sub and mi[a[5]%3] != 1001:    
     max_sub = a[5] - mi[a[5]%3]

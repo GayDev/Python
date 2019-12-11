@@ -30,9 +30,9 @@
 Пояснение: если перевернуть третью костяшку, то образуется 
 цепочка: 4-5 5-5 5-1. 
 """
-import sys
-save_stdin = sys.stdin
-sys.stdin = open("in/106.in")
+# import sys
+# save_stdin = sys.stdin
+# sys.stdin = open("in/106.in")
 
 maxLen = 1 # maxLen - длина максимальной цепочки
 curLen = 1 # curLen - длина последней цепочки
@@ -61,4 +61,4 @@ for i in range(1,n):
 
 print( maxLen )
 
-sys.stdin = save_stdin
+# sys.stdin = save_stdin

@@ -28,9 +28,9 @@
 2 2 1 2 2
 Выходные данных для приведенного выше примера: 3 4
 """
-import sys
-save_stdin = sys.stdin
-sys.stdin = open("in/98.in")
+# import sys
+# save_stdin = sys.stdin
+# sys.stdin = open("in/98.in")
 
 n = int( input() )
 m1 = m2 = 10001
@@ -58,4 +58,4 @@ else:
   
 print( m1+m2, k ) 
 
-sys.stdin = save_stdin
+# sys.stdin = save_stdin
